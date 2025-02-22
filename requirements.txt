@@ -1,0 +1,8 @@
+openpyxl
+spacy
+nltk
+unidecode
+flask
+flask_cors
+pandas
+python -m spacy download fr_core_news_sm

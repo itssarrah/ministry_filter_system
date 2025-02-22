@@ -1,0 +1,1465 @@
+code_activity,name_activity,ar_name_activity
+72324,Artiste Plasticien,فنان تشكيلي
+72323,Artiste Sculpteur,فنان نحات
+72322,Artiste Céramiste,فنان خزفي
+72321,Artiste Graphiste,فنان جرافيك
+72320,Artiste Infographiste,فنان إنفوغرافي
+72319,Artiste Styliste,فنان نقاش
+72318,Artiste Miniaturiste,فنان مصغر
+72317,Artiste Enlumineur,فنان اضاءة
+72316,Artiste Designeur,فنان مصمم
+72315,Artiste Vireur,فنان زجاجي
+72314,Artiste Calligraphe,فنان خطاط
+72313,Animateur de Galerie d’ART,منشط معرض فني
+72312,Chef de Galerie,مسؤول معرض
+72311,Artiste Scénographe,فنان سينوغراف
+72310,Artiste de Bande Dessinée,فنان القصص المصورة
+72309,Artiste Galeriste,فنان معرضي
+72308,Expert en arts,خبير فنون
+72307,Artiste de décoration intérieure,فنان ديكور داخلي
+72306,Artiste Styliste,فنان مصمم أزياء
+72305,Artiste Modéliste,فنان موضة
+72304,Artiste Photographe,فنان مصور
+72303,Artiste Dessinateur,فنان رسام
+72302,Réparateur d’instruments musicaux,مصلح آلات موسيقية
+72301,Restaurateur d’œuvres artistiques,مرمم التحف الفنية
+72208,Infographe,مصمم الانفوغراف
+72207,Graveur hélio,طباعة روتوغرافية 
+72206,Flasheur,مساعد المصمم الضوئي في الطباعة
+72205,Développeur (film plaque et autre),مطور طباعة (أفلام وصفائح وغيرها)
+72204,Copiste,ناسخ في الطباعة
+72203,Compositeur en Publication Assistée par Ordinateur-PAO,ملحن في النشر بمساعدة الكمبيوتر (PAO)
+72202,Claviste en Publication Assistée par Ordinateur-PAO,محرر نصوص في النشر بمساعدة الكمبيوتر (PAO)
+72201,Aide photograveur,مساعد محور الحفر الضوئي
+72109,Photographe scolaire,مصور مدرسي
+72108,Photographe itinérant,مصور متنقل
+72107,Photographe événementiel,مصور التظاهرات
+72106,Photographe de sport,مصور رياضي
+72105,Photographe de reportage,مصور ربورتاجات
+72104,Photographe,مصور
+72103,Opérateur de laboratoire photographique,مشغل مخبر الصور
+72102,Développeur de photographies,مطور الصور
+72101,Assistant photographe,مساعد مصور
+72003,Technicien opérateur de projection cinéma,تقني مشغل في العرض السينمائي
+72002,Projectionniste,عارض أفلام
+72001,Opérateur projectionniste cinéma,مشغل/ عارض الأفلام السينمائية
+71910,Artiste en effets visuels,فنان مؤثرات بصرية
+71909,Styliste culinaire,مصمم طعام
+71906,Infographiste multimédia,مصمم الرسومات بالحاسوب (إنفوغرافيك) وسائل الإعلام
+71905,Illustrateur multimédia,رسام القصص المصورة
+71904,Designer en contenu multimédia,مصمم في محتوى وسائل الإعلام
+71903,Animateur 3D,أنفوغرافي ثلاثي الأبعاد
+71902,Animateur 2D,أنفوغرافي ثنائي الأبعاد
+71901,Affichiste illustrateur,رسام الرسومات التوضيحية في وسائل الإعلام
+71810,Superviseur monteur postproduction,مشرف مركب ما بعد الإنتاج
+71809,Opérateur PADPrêt A Diffuser,منسق المحتويات السمعية البصرية الجاهزة
+71808,Monteur vidéo,مركب الفيديو
+71807,Monteur sous titres,مركب حاشية العنونة
+71806,Monteur postproduction,مركب ما بعد الإنتاج
+71805,Monteur adjoint postproduction,مساعد مركب ما بعد الإنتاج
+71804,Mixeur,مكلف بالمزج
+71803,Etalonneur numérique,معير رقمي
+71802,Chef monteur postproduction,رئيس مركب ما بعد الإنتاج
+71801,Assistant monteur postproduction,مساعد مركب ما بعد الإنتاج
+71714,Travelling man,محرك الكاميرا على سكة
+71713,Technicien plateau,تقني البلاطو
+71712,Manutentionnaire de plateau,توضيب  البلاطو
+71711,Machiniste vidéo,منسق ديكور عام
+71710,Machiniste théatre,منسق ديكور مسرح
+71709,Machiniste télévision,منسق ديكور التلفزيون
+71708,Machiniste spectacle,منسق ديكور عروض 
+71707,Machiniste en décors,مشغل عرض ديكور
+71706,Machiniste en chef,مشغل عرض رئيسي
+71705,Machiniste constructeur de décors,مشغل ومصمم آلات الديكور
+71704,Machiniste cinema,مشغل آلات السينما
+71703,Cintrier machiniste,مشغل آلات دعائم الستائر
+71702,Chef machiniste spectacle,رئيس مشغل آلات العرض
+71701,Chef atelier machinerie,رئيس ورشة الآلات
+71616,Technicien du son,تقني الصوت
+71615,Technicien de sonorisation,تقني أجهزة تكبير الصوت
+71614,Sonorisateur,منتج الصوت
+71613,Preneur de son,مشغل ملتقط الصوت
+71612,Perchman,حامل عصا الميكروفون
+71611,Opérateur prise de son,مشغل التقاط الصوت
+71610,Opérateur de prise de son specialisé,مشغل مختص في التقاط الصوت
+71609,Ingénieur du son,مهندس الصوت
+71608,Chef opérateur du son,رئيس مشغل الصوت
+71607,Chef opérateur de prise de son,رئيس مشغل التقاط الصوت
+71606,Chef d'atelier son,رئيس ورشة الصوت
+71605,Bruiteur,مكلف بإحداث الصوت
+71604,Backliner,مكلف بأجهزة الصوت (باكلينر)
+71603,Assistant son,مساعد الصوت
+71602,Assistant de prise de son,مساعد ملتقط الصوت
+71601,Technicien vidéo,تقني فيديو
+71527,Technicien d'exploitation vidéo,تقني تشغيل فيديو
+71526,Technicien d'exploitation et de maintenance des équipements audiovisuels,تقني تشغيل وصيانة المعدات السمعية والبصرية
+71525,Technicien banc de titre,تقني طاولة تصوير عناوين متحركة
+71524,Technicien prompteur,تقني شاشة التلقين
+71523,Preneur d'image,ملتقط الصورة
+71522,Premier assistant opérateur,مشغل تجهيزات التصوير
+71521,Pointeur,مدقق الصورة
+71520,Photographe de plateau,مصور البلاطو
+71519,Opérateur vidéo,مشغل فيديو
+71518,Opérateur sur louma,مشغل كاميرا على ذراع
+71517,Opérateur steadycam,مشغل كاميرا بمثبت
+71516,Opérateur prise de vue specialisé,مشغل التقاط الصور مختص
+71515,Opérateur image,مشغل الصورة
+71514,Opérateur de plateau,مشغل البلاطو
+71513,Ingénieur de la vision,مهندس التصوير الرقمي
+71512,Directeur de la photo,مدير التصوير
+71511,Deuxième assistant operateur,مساعد ثاني مشغل
+71510,Chef opérateur vidéo,رئيس مشغل الفيديو
+71509,Chef opérateur d'image,رئيس مشغل الصورة
+71508,Chef opérateur de prise de vue,رئيس مشغل التقاط الصور
+71507,Cameraman,مصور بالكاميرا
+71506,Cadreur,مؤطر الصورة
+71505,Assistant opérateur sur louma,مساعد مشغل كاميرا على ذراع
+71504,Assistant cameraman,مساعد مصور بالكاميرا
+71503,Assistant cadreur,مساعد مؤطر الصورة
+71502,Technicien lumière,تقني الاضاءة
+71501,Pupitreur spectacle,مكلف بوحدة التحكم العرض
+71420,Pupitreur image,مكلف بوحدة التحكم في الصورة
+71419,Pupitre man,مشغل اللوحة التقنية
+71418,Poursuiteur,متقفي اضاءة
+71417,Opérateur poursuite,مشغل إضاءة متقفي
+71416,Opérateur lumière,مشغل اضاءة
+71415,Groupiste,مكلف بالمولدات الكهربائية للعروض
+71414,Electricien plateau,كهربائي المرحلة
+71413,Electricien jeu d'orgues,كهربائي البلاطو
+71412,Electricien éclairagiste spectacle,كهربائي وحدة تحكم الإضاءة
+71411,Electricien spectacle,كهربائي مكلف بإضاءة العرض
+71410,Eclairagiste,تقني اضاءة
+71409,Créateur lumière,مصمم الإضاءة
+71408,Concepteur lumière,منفذ الإضاءة
+71407,Chef section eclairagiste,رئيس قسم الإضاءة
+71406,Chef opérateur lumière,رئيس مشغل الإضاءة
+71405,Chef électricien spectacle,رئيس كهربائي العرض
+71404,Chef éclairagiste,رئيس الإضاءة
+71403,Assistant lumière,مساعد الإضاءة
+71402,Régisseur technique général,ريجيسور تقني عام
+71401,Régisseur technique,ريجيسور تقني
+71309,Régisseur lumière,ريجيسور الإضاءة
+71308,Régisseur général,ريجيسور عام
+71307,Régisseur de tournée,ريجيسور الجولات
+71306,Régisseur de son,ريجيسور الصوت
+71305,Régisseur de plateau,ريجيسور استوديو
+71304,Régisseur artistique,ريجيسور فني
+71303,Assistant de régie,ريجيسور 
+71302,Tapissier décorateur spectacle,مصمم ديكور السجاد للعروض
+71301,Scénographe spectacle,مصمم المشهد للعروض
+71216,Peintre en décor spectacle,رسام ديكور العرض
+71215,Menuisier en décor spectacle,نجار ديكور العرض
+71214,Ensemblier de décor spectacle,منسق الديكور للعروض
+71213,Décorateur spectacle,مصمم ديكور العرض
+71212,Décorateur spécialisé spectacle,مصمم ديكور مختص في العروض
+71211,Constructeur en décor,مُنشئ في الديكور
+71210,Chef magasin accessoires,رئيس مخزن الإكسسوارات
+71209,Chef décorateur spectacle,رئيس مصمم ديكور العرض
+71208,Chef décorateur spécialisé spectacle,رئيس مصمم ديكور مختص في العروض
+71207,Chef atelier de construction des décors,رئيس ورشة إنشاء الديكور
+71206,Chef atelier accessoires,رئيس ورشة الإكسسوارات
+71205,Assistant décorateur spectacle,مساعد مصمم ديكور العرض
+71204,Architecte en décors spectacle,مهندس ديكور مسرحي
+71203,Accessoiriste,مسؤول الاكسسوارات
+71202,Repasseur retoucheur de spectacle,كواء ومنمق ازياء العرض
+71201,Piqueuse de spectacle,عاملة تضريب أزياء العرض
+71112,Lingère de spectacle,مصمم ملابس داخلية الخاصة بالعرض
+71111,Habilleur,مكلف بالإلباس في العرض
+71110,Créateur de costumes,مصمم أزياء العرض
+71109,Couturier spectacle,خياط أزياء العرض
+71108,Costumier-habilleur,مصمم وملبس أزياء العرض
+71107,Costumier,مصمم أزياء 
+71106,Chef magasin des costumes,رئيس مخزن الأزياء
+71105,Chef costumier,رئيس ازياء العرض
+71104,Chef atelier couture spectacle,رئيس ورشة خياطة العرض
+71103,Chef atelier costumes,رئيس ورشة أزياء العرض
+71102,Maquilleur spectacle,واضع ماكياج في العروض
+71101,Coiffeur-posticheur spectacle,حلاق وواضع الشعر المزيف في العروض
+71008,Coiffeur-perruquier spectacle,حلاق وواضع الشعر المستعار في العروض
+71007,Coiffeur spectacle,حلاق العروض
+71006,Chef maquilleur spectacle,واضع ماكياج رئيسي في العروض
+71005,Chef coiffeur spectacle,حلاق رئيسي في العروض
+71004,Assistant maquilleur spectacle,مساعد واضع ماكياج العروض
+71003,Assistant coiffeur spectacle,مساعد حلاق العروض
+71002,Présentateur TV,مقدم تلفزيوني
+71001,Présentateur radio,مقدم إذاعي
+70911,Présentateur de spectacle,مقدم العروض
+70910,Chroniqueur TV / Radio,مقدم فقرات تلفزيونية / اذاعية
+70909,Chauffeur de salle,منشط الجمهور في قاعة
+70908,Annonceur speaker radio,مذيع معلق
+70907,Annonceur radio,مذيع راديو
+70906,Animateur TV,منشط تلفزيوني
+70905,Animateur radio,منشط اذاعي
+70904,Animateur de spectacle,منشط العروض
+70903,Mannequin publicité, عارض ازياء إعلانات
+70902,Mannequin podium, عارض ازياء منصة
+70901,Mannequin photo, عارض ازياء تصوير
+70805,Mannequin haute couture, عارض أزياء خياطة راقية
+70804,Mannequin,عارض ازياء
+70803,Personnage,متقمص شخصية
+70802,Pantomime,ممثل ايمائي
+70801,Mime,ممثل صامت
+70714,Marionnettiste,محرك دمى
+70713,Imitateur,مقلد
+70712,Humoriste,ممثل مازح 
+70711,Doublure,ممثل بديل
+70710,Conteur,حكواتي
+70709,Comique,ممثل هزلي
+70708,Comédien,ممثل كوميدي
+70707,Clown,مهرج
+70706,Acteur principal,ممثل رئيسي
+70705,Acteur,ممثل
+70704,Xylophoniste,عازف إكسيليفوني
+70703,Violoniste,عازف الزيلوفون
+70702,Violoncelliste,عازف الكمان
+70701,Tubiste / Contre tubiste,عازف الطوبا / عازف الطوبا الكبير
+70646,Trompettiste,عازف البوق
+70645,Tromboniste,عازف الترومبون
+70644,Timbalier,عازف التمبال
+70643,Saxophoniste,عازف الساكسفون
+70642,Régisseur d'orchestre,ريجيسير الأوركسترا
+70641,Régisseur chœurs,ريجيسير الجوق
+70640,Pianiste,عازف البيانو
+70639,Percussionniste,عازف الإيقاع
+70638,Organiste,عازف الأرغن
+70637,Orchestrateur,موزع الموسيقى
+70636,Musicien-accompagnateur,موسيقار منوعات
+70635,Musicien soliste,موسيقار مرافق
+70634,Musicien d'orchestre,موسيقار أوركسترا
+70633,Musicien de variétés,موسيقار منوعات
+70632,Musicien,موسيقار
+70631,Joueur d'instrument ethnique ou traditionnel,عازف على الآلة العرقية أو التقليدية
+70630,Joueur de synthétiseur,عازف الة المزج
+70629,Instrumentiste,عازف الاتي 
+70628,Hautboïste,عازف الة المزمار 
+70627,Harpiste,عازف الجينك
+70626,Harmoniciste,عازف الهارمونيكا
+70625,Guitariste,عازف الجيتار
+70624,Flûtiste,عازف الناي
+70623,Directeur des chœurs,مدير الجوق
+70622,Directeur artistique musique,مدير فني للموسيقى
+70621,Corniste,عازف الة القرن
+70620,Contrebassiste,عازف الكمان الكبير
+70619,Contre bassoniste,عازف الباصون الكبير
+70618,Claveciniste,عازف الة وترية
+70617,Clarinettiste,عازف الكلارينيت
+70616,Choriste,مغني جوق
+70615,Chef d'orchestre,قائد الأوركسترا
+70614,Chef de chœur,قائد الجوق
+70613,Chanteur,مغني
+70612,Batteur,عازف الإيقاع
+70611,Bassoniste,عازف الباصون
+70610,Bassiste,عازف الباص
+70609,Auteur-interprète,كاتب ومؤدي
+70608,Auteur-compositeur,كاتب وملحن
+70607,Arrangeur musical,ملحن الإيقاعات الموسيقية
+70606,Altiste,عازف كمان جهير/ التشيلو
+70605,Accordéoniste,عازف الأكورديون
+70604,Music manager,مدير أعمال موسيقي
+70603,Manager d'artiste,مدير أعمال الفنان
+70602,Directeur de casting,وكيل انتقاء الفنانين (كاستينغ)
+70601,Agent littéraire,وكيل أدبي
+70509,Agent de sportif,وكيل رياضي
+70508,Agent de mannequin,وكيل عارضة أزياء
+70507,Agent d'artiste,وكيل فنان
+70506,Agent artistique,وكيل فني
+70505,Script télévision,سكريبت تلفزيون
+70504,Script cinéma,سكريبت سينيمائي
+70503,Script,سكريبت 
+70502,Réalisateur télévision,مخرج تلفزيوني
+70501,Réalisateur radio,مخرج راديو
+70422,Réalisateur principal radio,مخرج راديو رئيسي
+70421,Réalisateur secondaire de radio,مخرج إذاعي ثانوي
+70420,Réalisateur d'émission de radio,مخرج برنامج إذاعي
+70419,Réalisateur de vidéoclip,مخرج فيديو كليب
+70418,Réalisateur de téléfilm,مخرج فيلم تلفزيوني
+70417,Réalisateur de plateau,مخرج البلاتو
+70416,Réalisateur de long métrage,مخرج أفلام طويلة
+70415,Réalisateur de documentaire,مخرج أفلام وثائقية
+70414,Réalisateur de court métrage,مخرج أفلام قصيرة
+70413,Réalisateur cinéma,مخرج سينمائي
+70412,Réalisateur audiovisuel,مخرج سمعي بصري
+70411,Réalisateur,مخرج
+70410,Premier assistant réalisateur,مساعد مخرج أول
+70409,Deuxième assistant réalisateur,مساعد مخرج ثاني
+70408,Assistant réalisateur radio,مساعد مخرج إذاعي
+70407,Assistant réalisateur,مساعد مخرج
+70406,Metteur en scène théâtre,مخرج عروض مسرحية
+70405,Metteur en scène,مخرج عروض
+70404,Co-metteur en scène,مخرج مشارك في العرض
+70403,Assistant metteur en scène,مساعد مخرج العروض
+70402,Technicien de production audiovisuelle,تقني الإنتاج السمعي البصري
+70401,Superviseur de production audiovisuelle,مشرف الإنتاج السمعي البصري
+70304,Secrétaire de production cinéma,سكرتير إنتاج سينمائي
+70303,Responsable de la programmation de spectacle,مسؤول برمجة العروض
+70302,Responsable de la programmation audiovisuelle,مسؤول البرمجة السمعية البصرية
+70301,Programmateur radio,مبرمج اذاعي
+70236,Programmateur de spectacle,مبرمج عروض
+70235,Producteur télévision,منتج تلفزيوني
+70234,Producteur radio,منتج إذاعي
+70233,Producteur exécutif,منتج منفذ 
+70232,Producteur délégué / assistant ,منتج مفوض/ مساعد 
+70231,Producteur de spectacle,منتج العروض
+70230,Producteur de musique,منتج الموسيقى
+70229,Producteur cinéma,منتج سينمائي
+70228,Gestionnaire de programmation audiovisuelle,مسير برمجة سمعية بصرية
+70227,Directeur technique et artistique audiovisuel,مدير تقني سمعي بصري
+70226,Chargé de la gestion musical,مكلف بالإدارة الموسيقية
+70225,Chargé de la gestion du théâtre,مكلف بإدارة مسرح
+70224,Chargé de production de spectacle,مكلف إنتاج العروض
+70223,Chargé de production cinématographique,مكلف الإنتاج السينمائي
+70222,Chargé de production audiovisuelle,مكلف بالإنتاج السمعي البصري
+70221,Chargé des spectacles de la musique,مكلف بالعروض الموسيقية
+70220,Chargé des spectacles de la danse,مكلف بالعروض الراقص
+70219,Chargé de ballet,مكلف بالباليه
+70218,Chargé d'antenne télévision,مكلف بالبث التلفزيوني
+70217,Chargé d'antenne radio,مكلف بالبث الإذاعي
+70216,Chargé artistique spectacle,مكلف فني بالعرض
+70215,Conseiller de programme audiovisuel,مستشار البرامج السمعية والبصرية
+70214,Assistant de production spectacle,مساعد إنتاج ا لعرض
+70213,Assistant de production audiovisuelle,مساعد إنتاج سمعي بصري
+70212,Chargé d'orchestre,مدير الأوركسترا
+70211,Chargé de gestion de théâtre,مكلف بإدارة المسرح
+70210,Chargé administrateur de production de spectacle,مكلف اداري بإنتاج ا لعروض
+70209,Chargé administrateur de production cinéma,مكلف اداري بالإنتاج السينمائي
+70208,Chargé administrateur de production audiovisuelle,مكلف اداري بالإنتاج السمعي البصري
+70207,Scénariste,كاتب سيناريو
+70206,Romancier,كاتب روائي
+70205,Poète,شاعر
+70204,Parolier,كاتب كلمات الأغاني
+70203,Ecrivain,كاتب
+70202,Directeur d'écriture de scénarios,مدير كتابة السيناريو
+70201,Compositeur,ملحن
+70121,Biographe littéraire,كاتب سيرة أدبية
+70120,Biographe,كاتب سير الشخصيات
+70119,Auteur-adaptateur,مؤلف مقتبس
+70118,Auteur littéraire,مؤلف أعمال أدبية
+70117,Auteur humoriste,مؤلف قصص هزلية
+70116,Auteur écrivain multimédia,مؤلف كاتب متعدد الوسائط الإعلامية
+70115,Auteur écrivain,كاتب أدبي
+70114,Auteur dramatique,مؤلف درامي
+70113,Auteur d'œuvre musicale avec ou sans paroles,مؤلف كلمات أو أعمال موسيقية
+70112,Auteur d'oeuvre littéraire radiodiffusée,مؤلف الأعمال الأدبية للبث الإذاعي
+70111,Auteur d'œuvre dramatique,مؤلف أعمال درامية
+70110,Auteur d'œuvre dramaticomusicale,مؤلف أعمال الدراما الموسيقية
+70109,Auteur Compositeur,مؤلف – ملحن
+70108,Adaptateur-traducteur,مقتبس-مترجم
+70107,Assistant service relations sociales,مساعد مصلحة العلاقات الاجتماعية
+70106,Assistant ressources humaines,مساعد في الموارد البشرية
+70105,Assistant du service gestion du personnel,مساعد في مصلحة تسيير المستخدمين
+70104,Assistant de gestion en ressources humaines,مساعد في تسيير الموارد البشرية
+70103,Assistant de gestion administrative du personnel,مساعد في التسيير الاداري للمستخدمين
+70102,Assistant carrières et paie,مساعد في تسيير المسارات المهنية والأجور
+70101,Assistant en gestion du personnel,مساعد في تسيير المستخدمين
+63808,Technicien supérieur électromécanicien,تقني سامي في الكهروميكانيكا
+63807,Technicien de maintenance électrique,تقني في الصيانة الكهربائية
+63806,Responsable maintenance dépannage en électricité industrielle,مسؤول الصيانة وتصليح الاعطال في الكهرباء الصناعية
+63805,Electrotechnicien de maintenance,كهروميكانيكي في الصيانة
+63804,Electromécanicien d'entretien d'installations électriques,كهروميكانيكي في صيانة المنشآت الكهربائية
+63803,Electromécanicien de signalisation basse et moyenne tension,كهروميكانيكي في إشارة الضغط المنخفض والمتوسط
+63802,Electromécanicien de maintenance d'installations électriques,كهروميكانيكي في صيانة التركيبات الكهربائية
+63801,Electricien de maintenance en équipements industriels,كهربائي في صيانة التجهيزات الصناعية
+63707,Electricien de maintenance de centrales hydrauliques,كهربائي في صيانة المحطات الهيدروليكية
+63706,Dépanneur électricien d'équipements industriels,مصلح كهربائي للتجهيزات الصناعية
+63705,Thermicien de maintenance,مختص صيانة في الطاقة الحرارية
+63704,Technicien thermicien de maintenance,مختص صيانة في الطاقة الحرارية
+63703,Technicien de maintenance en chauffage,تقني صيانة في التدفئة
+63702,Technicien d'exploitation de réseaux de chauffage,تقني استغلال في شبكات التدفئة
+63701,Technicien d'entretien et d'exploitation de chauffage,تقني صيانة واستغلال في التدفئة
+63611,Monteur-réparateur de chaudières,مركب-مصلح المسخنات الصناعية
+63610,Monteur de chaudières industrielles,مركب المسخنات الصناعية
+63609,Instrumentiste chauffagiste,مختص في التدفئة
+63608,Electromécanicien de chauffage,كهروميكانيكي في التدفئة
+63607,Agent technique de maintenance en chauffage,عوني تقني مكلف بالصيانة في مجال التدفئة
+63606,Technicien réseaux et télécommunication d'entreprise,تقني شبكات واتصالات المؤسسة
+63605,Technicien en télécommunications et réseaux d'entreprises,تقني في الاتصالات وشبكات المؤسسات
+63604,Technicien en télécommunications,تقني في الاتصالات
+63603,Technicien en radio communication courants faibles,تقني في راديو الاتصال-التيار المنخفض
+63602,Technicien en radio communication,تقني في راديو الاتصال
+63601,Technicien d'installation en télécommunications et radio,تقني تركيب في الاتصالات والراديو
+63510,Technicien d'installation en télécommunications courants faibles,تقني تركيب في الاتصالات –التيار المنخفض
+63509,Technicien d'installation en télécommunications,تقني تركيب في الاتصالات
+63508,Technicien d'installation en courants faibles,تقني تركيب في التيارات المنخفضة
+63507,Technicien d'installation de centrales téléphoniques,تقني تركيب مراكز هاتفية
+63506,Technicien d'essais et de contrôle en télécommunication,تقني التجارب والمراقبة في الاتصالات
+63505,Technicien de maintenance en téléphonie,تقني صيانة في مجال الهواتف
+63504,Technicien de maintenance en télécommunications,تقني صيانة في الاتصالات
+63503,Technicien de maintenance en systèmes d'alarme et de sécurité,تقني صيانة في أنظمة الإنذار والأمن
+63502,Technicien de maintenance en installations de vidéo – surveillance,تقني صيانة في تركيبات المراقبة بالفيديو
+63501,Technicien de maintenance des systèmes d'alarme et de télésurveillance,تقني صيانة أنظمة الإنذار والمراقبة عن بعد
+63432,Technicien de maintenance des systèmes d'alarme,تقني صيانة أنظمة الإنذار
+63431,Technicien de déploiement télécom,تقني تركيب في الاتصالات
+63430,Superviseur des équipements de transmission,مشرف على تجهيزات الإرسال
+63429,Monteur en paraboles et antennes,مركب في الصحون الهوائية والهوائيات
+63428,Monteur d'installations en télécommunications et courant faibles,مركب التركيبات في الاتصالات والتيارات المنخفضة
+63427,Installateur en télécommunication,مركب في الاتصالات
+63426,Electro Mécanicien de maintenance sécurité,كهروميكانيكي صيانة أجهزة الأمان
+63425,Electro Mécanicien de maintenance en téléphonie,كهروميكانيكي الصيانة في مجال الهاتف
+63424,Antenniste,مختص هوائيات
+63423,Aide monteur d'installations en télécommunications et courant faibles,مساعد مركب تثبيت في الاتصالات والتيار المنخفض
+63422,Agent technique relève dérangements en télécommunications,تقني في صيانة تجهيزات الاتصالات
+63421,Agent technique en télécommunications courants faibles,عون تقني في الاتصالات التيار المنخفض
+63420,Agent technique en télécommunications,عون تقني في الاتصالات
+63419,Agent de maintenance en systèmes d'alarme et de sécurité,عون صيانة في أنظمة الإنذار والأمان
+63418,Technicien-cuisiniste en cuisines professionnelles,تقني – مطبخي في المطابخ المهنية
+63417,Technicien supérieur de maintenance en exploitation climatique,تقني سامي في الصيانة تشغيل التكييف
+63416,Technicien frigoriste,تقني اختصاصي تبريد
+63415,Technicien en froid et climatisation,تقني في التبريد والتكييف
+63414,Technicien en climatisation Service Après Vente-SAV-,تقني في خدمة ما بعد البيع في التكييف
+63413,Technicien d'intervention et de maintenance en conditionnement d'air,تقني تدخل وصيانة في تكييف الهواء
+63412,Technicien d'intervention en froid industriel,تقني تدخل في التبريد الصناعي
+63411,Technicien d'intervention en froid et climatisation,تقني تدخل في التبريد والتكييف
+63410,Technicien d'intervention en froid commercial et climatisation,تقني تدخل في التبريد التجاري والتكييف
+63409,Technicien d'intervention en équipements de cuisines professionnelles,تقني تدخل في تجهيزات المطابخ المهنية
+63408,Technicien de test final en installation et maintenance en froid,تقني التجربة النهائية في تركيب وصيانة التبريد
+63407,Technicien de maintenance de système de filtration d'air,تقني في صيانة نظام تصفية الهواء
+63406,Monteur-frigoriste,مركب اختصاصي تبريد
+63405,Monteur-dépanneur frigoriste,مركب مصلح اختصاصي تبريد
+63404,Monteur-dépanneur en installations de froid et climatisation,مركب مصلح في تركيب التبريد والتكييف
+63403,Monteur-dépanneur en installations climatiques,مركب مصلح في تركيب التكييف
+63402,Monteur en gaines de ventilation,مركب في قنوات الهواء
+63401,Monteur en conditionnement d'air,مركب في تكييف الهواء
+63332,Mécanicien de maintenance des systèmes climatiques et frigorifiques,ميكانيكي صيانة أنظمة التكييف والتبريد
+63331,Frigoriste maritime,اختصاصي تبريد بحري
+63330,Frigoriste,اختصاصي تبريد
+63329,Dépanneur en installations de froid et climatisation,مصلح في تركيب التبريد والتكييف
+63328,Conducteur d'installations frigorifiques,قائد تركيبات التبريد
+63327,Chef d'équipe de maintenance en froid et climatisation,رئيس فريق الصيانة في التبريد والتكييف
+63326,Agent technicien en froid et climatisation,عون تقني في التبريد والتكييف
+63325,Agent d'encadrement en froid et conditionnement d'air,عون تأطير في التبريد، تكييف الهواء
+63324,Agent de test en installation et maintenance en froid,عون تجريب في التركيب والصيانة في التبريد
+63323,Agent de montage frigoriste,عون تركيب اختصاصي تبريد
+63322,Agent de maintenance en génie climatique,عون صيانة في هندسة التكييف والتبريد
+63321,Agent de maintenance en conditionnement d'air,عون صيانة في تكييف الهواء
+63320,Agent de maintenance en climatisation,عون صيانة في التبريد
+63319,Agent d'inspection en installation et maintenance en froid,عون تفتيش في التركيب والصيانة في التبريد
+63318,Technicien supérieur électronicien de maintenance électronique,تقني سامي في إلكترونيات الصيانة الإلكترونية
+63317,Technicien supérieur électronicien de maintenance de cartes électroniques,تقني سامي في إلكترونيات صيانة البطاقات إلكترونية
+63316,Technicien d'entretien d'appareillages de mesure et de régulation,تقني في صيانة تجهيزات القياس والضبط
+63315,Technicien de maintenance radar,تقني في صيانة أنظمة الرادار
+63314,Technicien de maintenance en sonorisation,تقني في صيانة العتاد الصوتي
+63313,Technicien de maintenance en matériel optoélectronique,تقني في صيانة العتاد البصري
+63312,Technicien de maintenance en matériel médical,تقني في صيانة المعدات الطبية
+63311,Technicien de maintenance en matériel de radiologie,تقني في صيانة معدات التصوير بالأشعة
+63310,Technicien de maintenance en matériel biomédical,تقني في صيانة المعدات البيو طبية
+63309,Technicien de maintenance en électronique,تقني في الصيانة الإلكترونية
+63308,Technicien de maintenance de systèmes optroniques,تقني في صيانة الأنظمة البصرية
+63307,Technicien de maintenance de systèmes laser,تقني في صيانة أنظمة الليزر
+63306,Technicien de maintenance de systèmes de détection,تقني في صيانة أنظمة الكشف
+63305,Technicien de maintenance de cartes électroniques,تقني في صيانة البطاقات الإلكترونية
+63304,Régleur-étalonneur en électronique,معاير-مضبط في مجال الإلكترونيات
+63303,Electromécanicien en installation et maintenance électronique,إلكترو نيكي في التركيب والصيانة الإلكترونية
+63302,Electromécanicien de maintenance de cartes électroniques,إلكترو نيكي في صيانة البطاقات الإلكترونية
+63301,Technicien supérieur pneumaticien,تقني في صيانة التركيبات الآلية
+63217,Technicien supérieur de maintenance industrielle,تقني في صيانة التجهيزات الصناعية
+63216,Technicien pneumaticien,تقني في خدمة الهوائيات المضغوطة
+63215,Technicien hydropneumatique,تقني في المائية الهوائية المضغوطة
+63214,Technicien électrotechnicien en installation d'exploitation,تقني في الكهروميكانيك في نظام التشغيل
+63213,Technicien électromécanicien,تقني في الكهروميكانيك
+63212,Technicien d'installation industrielle,تقني في التركيب الصناعي
+63211,Technicien d'installation d'équipements industriels,تقني في تركيب المعدات الصناعية
+63210,Technicien de maintenance industrielle,تقني في صيانة التركيبات الآلية
+63209,Technicien de maintenance en équipements industriels,تقني في صيانة التجهيزات الصناعية
+63208,Technicien de maintenance d'équipements de production,تقني في صيانة المعدات الإنتاج
+63207,Technicien de maintenance d'installations automatisées,تقني في صيانة التجهيزات الآلية
+63206,Technicien d'installation en automatisme,تقني في التركيب الآلي
+63205,Technicien automaticien de maintenance,تقني سامي في الصيانة الصناعية
+63204,Préparateur d'entretien en maintenance industrielle,مدرب صيانة في الصيانة الصناعية
+63203,Pneumaticien,مختص في تصنيع الهوائيات المضغوطة
+63202,Mécanicien industriel,ميكانيكي صناعي
+63201,Mécanicien de maintenance de matériel ferroviaire,ميكانيكي في صيانة عتاد السكك الحديدية
+63128,Mécanicien d'entretien,ميكانيكي صيانة
+63127,Instrumentiste en équipements industriels,مختص في التجهيزات الصناعية الألية
+63126,Hydraulicien industriel de maintenance,هيدروليكي صناعي في الصيانة
+63125,Hydraulicien industriel d’installation,هيدروليكي صناعي في التركيب
+63124,Hydraulicien,هيدروليكي
+63123,Électrotechnicien branche industrie,كهروميكاني في فرع الصناعة
+63122,Étlectromécanicien industriel,كهروميكاني صناعي
+63121,Étlectromécanicien d'équipements industriels,كهروميكاني في التجهيزات الصناعية
+63120,Étlectromécanicien de maintenance industrielle,كهروميكاني في الصيانة الصناعية
+63119,Étlectromécanicien,كهروميكاني
+63118,Technicien Service Après Vente-SAVde distributeurs automatiques,تقني خدمات ما بعد البيع الموزعات الآلية
+63117,Technicien de maintenance de Machines à SousMAS,تقني صيانة الموزعات الآلية للنقود
+63116,Opérateur d'installation de distributeurs automatiques,عامل تركيب الموزعات الآلية
+63115,Contrôleur Service Après Vente-SAVde distributeurs automatiques,مراقب خدمات ما بعد البيع للموزعات الآلية
+63114,Agent de maintenance-SAVde distributeurs automatiques,عون صيانة (خدمات ما بعد البيع) الموزعات الآلية
+63113,Agent d'approvisionnement de distributeurs automatiques,عون تموين الموزعات الآلية للنقود
+63112,Technicien supérieur réparateur en travaux d'ascenseurs,تقني سامي في تصليح المصاعد
+63111,Technicien supérieur de maintenance de travaux d'ascenseurs,تقني سامي في صيانة أشغال المصاعد
+63110,Technicien de monte-charges,تقني في مصاعد الحمولات
+63109,Technicien de montage d'ascenseurs,تقني في تركيب المصاعد
+63108,Technicien de maintenance d'escaliers mécaniques,تقني في صيانة السلالم المتحركة
+63107,Technicien de maintenance de remontées mécaniques,تقني في صيانة الرافعات المتحركة
+63106,Technicien de maintenance d'ascenseurs,تقني في صيانة المصاعد
+63105,Régleur d'ascenseurs,قائم بضبط المصاعد
+63104,Monteur d'ascenseurs,قائم تركيب المصاعد
+63103,Mécanicien-électricien dépanneur d'ascenseurs,ميكانيكي كهربائي في إصلاح المصاعد
+63102,Mécanicien-électricien d'ascenseurs,ميكانيكي كهربائي في المصاعد
+63101,Contremaitre de montage d'ascenseurs,رئيس فريق تركيب المصاعد
+63006,Contremaitre de maintenance d'ascenseurs,رئيس فريق صيانة المصاعد
+63005,Ascensoriste,مكلف بالمصعد
+63004,Agent d'entretien et de dépannage d'ascenseurs,عون صيانة وتصليح المصاعد
+63003,Agent d'entretien d'ascenseurs,عون صيانة المصاعد
+63002,Agent de réparation d'ascenseurs,عون تصليح المصاعد
+63001,Agent de montage en ascenseurs,عون تركيب المصاعد
+62920,Agent de maintenance d'ascenseurs,عون صيانة المصاعد
+62919,Agent de dépannage d'ascenseurs,عون تصليح أعطال المصاعد
+62918,Ingénieur d'entretien maintenance et travaux neufs en industrie,مهندس في الصيانة والأشغال الجديدة في الصناعة
+62917,Ingénieur d'entretien en maintenance industrielle,مهندس في الصيانة الصناعية
+62916,Ingénieur de zone en maintenance industrielle,مهندس منطقة الصيانة الصناعية
+62915,Ingénieur de maintenance industrielle,مهندس الصيانة الصناعية
+62914,Ingénieur de maintenance en matériels roulants,مهندس في صيانة العتاد المتنقل
+62913,Ingénieur de maintenance en matériel de production,مهندس في صيانة معدات الإنتاج
+62912,Ingénieur de maintenance en instrumentation,مهندس في الصيانة و الضبط و القياس
+62911,Ingénieur de maintenance en appareillage,مهندس في صيانة الأجهزة
+62910,Tuyauteur-traceur,مركب – مخطط انابيب
+62909,Tuyauteur-soudeur,مركب – ملحم انابيب
+62908,Tuyauteur-monteur,مركب – عامل تجميع انابيب
+62907,Tuyauteur-cintreur,مركب – مقوس أنابيب
+62906,Tuyauteur sur acier inox,مركب أنابيب الفولاذ غير القابل للصدأ (INOX) 
+62905,Tuyauteur industriel,مركب أنابيب صناعية
+62904,Tuyauteur en matières plastiques,مركب أنابيب البلاستيكية
+62903,Tuyauteur en haute pression,مركب أنابيب الضغط العالي
+62902,Tuyauteur en constructions navales,مركب أنابيب في البناء البحري
+62901,Tuyauteur en basse pression,مركب أنابيب الضغط المنخفض
+62808,Chef d'équipe en construction métallique,رئيس فريق في البناء المعدني
+62807,Charpentier industriel en construction métalliques,صانع الهياكل المعدنية الصناعية
+62806,Soudeur-braseur,لحام-لحام بنظام التلحيم المستمر
+62805,Soudeur Tungsten Inert Gas-TIG-,لحام بغاز التنغستن الخامل TIG-
+62804,Soudeur Metal Inert Gas-MIG-,لحام بالغاز المعدني الخامل MIG-
+62803,Soudeur Metal Active Gas-MAG-,لحام بالغاز المعدني الفعال MAG-
+62802,Soudeur au chalumeau oxyacétylénique,لحام بمنفاخ أوكساسيتيلين
+62801,Soudeur à l'électrode enrobée,لحام بالأقطاب المغلفة
+62710,Soudeur à l'arc semi-automatique,لحام بالقوس شبه الآلي
+62709,Soudeur à l'arc électrique,لحام بالقوس الكهربائي
+62708,Soudeur à la flamme,لحام باللهب
+62707,Soudeur,لحام
+62706,Opérateur sur machine de soudage,عامل على آلة التلحيم
+62705,Opérateur soudeur sur machine de rechargement,عامل لحام على آلة الشحن
+62704,Chef soudeur,لحام أول
+62703,Braseur,لحام بالتلحيم المستمر
+62702,Technicien modeleur,تقني صانع النماذج 
+62701,Remouleur,صانع النماذج
+62602,Noyauteur mécanique,مركب النواة ميكانيكيا
+62601,Noyauteur manuel,مركب يدوي لنواة القوالب
+62514,Noyauteur main sur matériaux non métalliques,مركب يدوي لنواة القوالب غير معدنية
+62513,Noyauteur en céramique,مركب نواة بالخزف
+62512,Noyauteur,مركب نواة القوالب
+62511,Mouleur noyauteur,صانع قوالب تحتوي على نواة
+62510,Mouleur mécanique,صانع قوالب ميكانيكيا
+62509,Mouleur manuel,صانع يدوي للقوالب
+62508,Modeleur sur matériaux non métalliques,صانع نماذج غير المعدنية
+62507,Modeleur en fonderie,صانع نماذج لصهر المعادن
+62506,Modeleur bois,صانع النماذج الخشبية
+62505,Modeleur sur plâtre,صانع النماذج الجبسية
+62504,Modeleur résine,صانع النماذج الصمغية
+62503,Modeleur plaquiste,صانع النماذج مركب الصفائح
+62502,Modeleur mouliste,صانع نماذج القوالب
+62501,Modeleur matières plastiques,صانع النماذج البلاستيكية
+62422,Modeleur en céramique,صانع النماذج الخزفية
+62421,Modeleur,صانع النماذج
+62420,Maquettiste modeleur,شاحذ القطع
+62419,Chef d'atelier de modelage,رئيس ورشة صناعة النماذج
+62418,Technicien poste de commande-PCen production des métaux,تقني مركز التحكم في إنتاج المعادن
+62417,Technicien de plancher,تقني ارضية الصب
+62416,Opérateur soufflage en production des métaux,مشغل نفخ في إنتاج المعادن
+62415,Opérateur polyvalent en production des métaux,مشغل متعدد المهام في إنتاج المعادن
+62414,Opérateur en production des métaux,مشغل في إنتاج المعادن
+62413,Opérateur de poste commande -PCen production des métaux,مشغل مركز التحكم في إنتاج المعادن
+62412,Opérateur de coulée continue,مشغل السبك المستمر
+62411,Opérateur mélangeur et refroidisseur en production des métaux,مشغل قائم بالمزج والتبريد في إنتاج المعادن
+62410,Fondeur,عامل في صهر المعادن
+62409,Dispatcheur de fonte,موزع حديد الزهر
+62408,Couleur en production des métaux,عامل الصب في إنتاج المعادن
+62407,Contremaître machine de coulée,رئيس فريق آلة صب المعادن المصهور
+62406,Contremaître au convertisseur,رئيس فريق في محول صب المعادن
+62405,Conducteur couleur en production des métaux,قائد  الصب في إنتاج المعادن 
+62404,Chef fondeur,رئيس فريق صهر المعادن
+62403,Aide fondeur,مساعد في صهر المعادن
+62402,Agent de granulation,عامل في تصنيع الحبيبات المعدنية
+62401,Aciériste versée coulée,عامل في صب الحديد المصهور
+62319,Aciériste,عامل في تصنيع الفولاذ (الصلب)
+62318,Responsable central de coupe,رئيس فريق تقطيع المواد
+62317,Oxycoupeur sur machine à lecture optique de matériaux,عامل تقطيع على آلة القراءة البصرية للمواد
+62316,Oxycoupeur sur machine à commande numérique –CN,عامل تقطيع بالأكسدة على آلة ذات تحكم رقمي
+62315,Oxycoupeur automatique,عامل تقطيع بالأكسدة الأوتوماتكية
+62314,Oxycoupeur,عامل تقطيع بالأكسدة
+62313,Opérateur sur poinçonneuse,مشغل آلة التخريم
+62312,Opérateur sur machine de découpage de matériaux,مشغل آلة تقطيع المواد
+62311,Opérateur sur machine de découpage à commande numérique –CN,مشغل آلة التقطيع ذات التحكم الرقمي
+62310,Opérateur de planeuse,مشغل آلة التسطيح
+62309,Opérateur de cintreuse,مشغل آلة التقويس
+62308,Machiniste sur presse de formage des métaux,مشغل آلة ضغط تشكيل المعادن
+62307,Machiniste de presse,عامل على آلة الضغط
+62306,Guillotineur,عامل التقطيع بالمقص
+62305,Emboutisseur,عامل واضع الأختام المعدنية
+62304,Coupeur-rompeur en verre plat,عامل تقطيع ونفخ الزجاج المسطح
+62303,Coupeur de verre plat,عامل تقطيع الزجاج المسطح
+62302,Coupeur au chalumeau,عامل تقطيع بالشعلة
+62301,Conducteur de rouleuse cintreuse,مشغل آلة التقويس والتلفيف
+62227,Conducteur de plieuse,مشغل آلة الطي
+62226,Conducteur de machine de débitage de matériaux,عامل على آلة قص المواد
+62225,Conducteur de grignoteuse manuelle,مشغل مقرضة يدوية
+62224,Conducteur de dressage des métaux,عامل استقامة المعادن
+62223,Cisailleur de laminoir,عامل تقطيع المصفحة
+62222,Chef d'équipe machiniste presse,رئيس الفريق العامل على آلة الضغط
+62221,Chef d'équipe de débitage de matériaux,رئيس فريق تقطيع المواد
+62220,Agent de débitage de matériaux,عون تقطيع المواد
+62219,Conducteur de machine de découpage de matériaux,عامل تقطيع المواد
+62218,Tourneur sur commande numérique-CN,خراط على آلة ذات تحكم رقمي
+62217,Tourneur,خراط
+62216,Tailleur en usinage,عامل تقطيع في التصنيع
+62215,Régleur conducteur polyvalent,عامل ضبط وتشغيل متعدد المهام
+62214,Rectifieur en usinage,عامل تصحيح في التصنيع
+62213,Rectifieur d'engrenage,عامل في تصحيح التشابك
+62212,Rectifieur,عامل تصحيح في التصنيع
+62211,Perceur sur machine radiale,عامل تثقيب على آلة نصف قطرية
+62210,Opérateur sur machine d'usinage,مشغل آلة تصنيع
+62209,Opérateur régleur usinage,مشغل مكلف بالضبط في التصنيع
+62208,Opérateur de centre d'usinage,مشغل مركز التصنيع
+62207,Opérateur commande numérique-CN,مشغل آلة ذات تحكم رقمي
+62206,Fraiseur sur commande numérique-CN,عامل تفريز على آلة ذات تحكم رقمي
+62205,Fraiseur,عامل تفريز
+62204,Etinceleur en électroérosion,مشعل الشرارة بالتآكل الكهربائي
+62203,Aléseur,عامل تخريط
+62202,Affûteur,عامل شحذ في التصنيع
+62201,Opérateur sur machine automatisée de production mécanique,عامل على آلة أوتوماتيكية للإنتاج الميكانيكي
+62117,Opérateur sur machine automatisée de montage-assemblage mécanique,عامل على آلة أوتوماتيكية للتركيب والتجميع الميكانيكي
+62116,Opérateur montage mécanique,عامل التركيب الميكانيكي
+62115,Opérateur d'assemblage mécanique,عامل في تجميع وتركيب القطع الميكانيكية
+62114,Monteur sur chaîne d'assemblage mécanique,مركب على سلسلة التجميع الميكانيكي
+62113,Monteur en lunetterie,فني تركيب المنظار
+62112,Monteur de pièces mécaniques,مركب القطع الميكانيكية
+62111,Assembleur monteur en pièces mécaniques,عامل التجميع الميكانيكي
+62110,Outilleur-mouliste,عامل تصنيع قوالب القطع الميكانيكية – قوالب السباكة
+62109,Monteur régleur de systèmes mécaniques,عامل تركيب ضبط الأنظمة الميكانيكية
+62108,Monteur ajusteur de fabrication,عامل تركيب تعديل في التصنيع
+62107,Mécanicien-ajusteur de fabrication,ميكانيكي التعديل في التصنيع
+62106,Mécanicien de précision en fabrication,ميكانيكي التدقيق في التصنيع
+62105,Mécanicien mouliste de fabrication,ميكانيكي في قوالب السباكة في التصنيع
+62104,Ajusteur-outilleur sur moule métallique,عامل تعديل-تصنيع قوالب القطع الميكانيكية على قوالب معدنية
+62103,Ajusteur-outilleur de fabrication,عامل تركيب تعديل في التصنيع
+62102,Ajusteur de systèmes mécaniques,عامل تعديل الأنظمة الميكانيكية
+62101,Ajusteur de fabrication,عامل تعديل في التصنيع
+62008,Rectificateur de composants électroniques,مقوم المكونات الإلكترونية
+62007,Opérateur sur machine semi-automatique en production électronique,مشغل على آلة إنتاج شبه الإلكترونية
+62006,Opérateur de sous – ensembles électriques,مشغل الأجزاء الكهربائية الفرعية
+62005,Opérateur de fabrication de matériels électriques et électroniques,مشغل تصنيع المعدات الكهربائية والإلكترونية
+62004,Opérateur de fabrication de matériels électriques,مشغل تصنيع المعدات الكهربائية
+62003,Agent d'insertion semi-automatique de composants électroniques,عون الإدماج شبه -أوتوماتيكي للمكونات الإلكترونية
+62002,Agent d'insertion manuelle de composants électroniques,عون الإدماج اليدوي للمكونات الإلكترونية
+62001,Agent d'insertion automatique de composants électroniques,عون الإدماج الأوتوماتيكي للمكونات الإلكترونية
+61910,Agent de production de matériels électriques,عون إنتاج المعدات الكهربائية
+61909,Agent de montage et d'insertion de matériels électroniques,عون تركيب وإدماج المعدات الإلكترونية
+61908,Agent de montage de matériels électroniques,عون تركيب المعدات الالكترونية
+61907,Agent de montage de matériels électriques,عامل تركيب المعدات الكهربائية
+61906,Agent d'assemblage de matériels électroniques,عامل تركيب المعدات الإلكترونية
+61905,Agent de préparation matières de matériels électroniques,عامل تحضير مواد المعدات الإلكترونية
+61904,Opérateur-soudeur à la vague,لحام على آلة تلحيم مموجة
+61903,Opérateur sur machines d'insertion de composants électroniques,عامل على آلة إدماج المكونات الإلكترونية
+61902,Opérateur sur machines automatisées en production électronique,مشغل خط أوتوماتيكي للإنتاج الإلكتروني
+61901,Opérateur sur machines automatisées en production électrique,مشغل خط أوتوماتيكي للإنتاج الكهربائي
+61814,Opérateur sur machine à bobiner en électricité,عامل على آلة تلفيف كهربائي
+61813,Opérateur de ligne en électronique,مشغل خط إلكتروني
+61812,Conducteur de machines à vagues,عامل على آلة تشغيل ماكينات التموُّج
+61811,Conducteur de ligne automatisée en production électronique,عامل على آلة أوتوماتيكية في الإنتاج الإلكتروني
+61810,Conducteur de ligne automatisée en production électrique,عامل على آلة أوتوماتيكية في الإنتاج الكهربائي
+61809,Monteur-câbleur de matériels électriques,مكلف بالتركيب والتوصيل الكهربائي على المعدات الكهربائية
+61808,Monteur-câbleur d'armoires électriques,مكلف بالتركيب والتوصيل الكهربائي على الخزانات
+61807,Monteur de transformateurs,مركب المحولات
+61806,"Monteur –câbleur de ligne moyenne tension-MT /basse tension BT, haute tension-HT/très haute tension-THT",مكلف بالتركيب والتوصيل الكهربائي على خطوط الضغط المتوسط، الضغط المنخفض، الضغط العالي، الضغط العالي جدا
+61805,Électromécanicien de régulation,كهروميكانيكي الضبط
+61804,Électricien d'équipements industriels,كهربائي التجهيزات الصناعية
+61803,Câbleur en haute tension,مكلف بالتوصيل الكهربائي على خطوط الضغط العالي
+61802,Câbleur de matériels électriques,مكلف بالتوصيل الكهربائي على المعدات الكهربائية
+61801,Câbleur d'armoires électriques,مكلف بالتوصيل الكهربائي على الخزانات
+61710,Technicien électro-bobinage,تقني كهرو تلفيف
+61709,Technicien d'atelier de bobinage en électricité,تقني ورشة تلفيف كهربائي
+61708,Technicien bobineur,تقني مختص في التلفيف
+61707,Rebobineur en électricité,عامل مكلف بإعادة التلفيف في الكهرباء
+61706,Bobinier électromécanicien,عامل مكلف بالتلفيف كهروميكانيكي
+61705,Bobineur en électricité,عامل مكلف بالتلفيف في الكهرباء
+61704,Bobineur de maintenance,عامل مكلف بالتلفيف في الصيانة
+61703,Bobineur,عامل مكلف بالتلفيف
+61702,Technicien qualité produit électricité-électronique,تقني جودة المنتج في الكهرباء والإلكترونيات
+61701,Technicien d'essais en électricité,تقني اختبارات في الكهرباء
+61609,Technicien de maintenance et contrôle-tests de cartes électroniques,تقني صيانة واختبارات للوحات الإلكترونية
+61608,Technicien de contrôle fabrication électronique,تقني مراقبة تصنيع الإلكترونيات
+61607,Technicien de contrôle et de tests en électricité,تقني مراقبة واختبارات في الكهرباء
+61606,Technicien contrôle qualité électricité-électronique,تقني مراقبة جودة الكهرباء والإلكترونيات
+61605,Technicien contrôle final électricité-électronique,تقني مراقبة نهائية في الكهرباء والإلكترونيات
+61604,Technicien de contrôle en électrotechnique,تقني مراقبة في الهندسة الكهربائية
+61603,Technicien de contrôle en électronique,تقني مراقبة في الإلكترونيات
+61602,Opérateur étalonnage électricité-électronique,عامل معايرة الكهرباء والإلكترونيات
+61601,Contrôleur qualité en électronique,مراقب جودة في الإلكترونيات
+61508,Contrôleur qualité en électricité,مراقب جودة في الكهرباء
+61507,Contrôleur en électronique,مراقب في الإلكترونيات
+61506,Contrôleur électronicien,مراقب إلكتروني
+61505,Contrôleur électricien,مراقب كهربائي
+61504,Contrôleur qualité électricité-électronique,مراقب جودة الكهرباء والإلكترونيات
+61503,Agent de test et contrôle électricité-électronique,عامل اختبار ومراقبة الكهرباء والإلكترونيات
+61502,Technicien polyvalent en mécanique et travail des métaux,تقني متعدد المهام في الميكانيك
+61501,Technicien laboratoire en métallurgie,تقني مخبر في التعدين
+61417,Technicien essai mécanique,تقني المراقبة في الميكانيك وتشغيل المعادن
+61416,Technicien d'analyse et d'essais métallurgiques,تقني تحليل و تجارب التعدين
+61415,Technicien contrôle en métallurgie,تقني المراقبة في التعدين
+61414,Technicien contrôle en laboratoire de métallurgie,تقني المراقبة في مخبر التعدين
+61413,Préparateur contrôle métallurgie,محضر مراقبة التعدين
+61412,Opérateur spectromètre en métallurgie,عامل في المقياس الطيفي في التعدين
+61411,Laborantin d'essai et contrôle en métallurgie,مخبري التجارب و المراقبة في التعدين
+61410,Échantillonneur en mécanique et travail des métaux,مكلف بالعينات في الميكانيك وتشغيل المعادن
+61409,Contrôleur qualité polyvalent en mécanique et travail des métaux,مراقب نوعية متعدد المهام في الميكانيك وتشغيل المعادن
+61408,Contrôleur marqueur en mécanique et travail des métaux,مراقب مسجّل العلامات في الميكانيك وتشغيل المعادن
+61407,Chargé de contrôle en métallurgie,مكلف بالمراقبة في التعدين
+61406,Agent d'essai contrôle mécanique,عون تجارب المراقبة الميكانيكية
+61405,Agent de laboratoire en contrôle métallurgie,عون مخبر في مراقبة التعدين
+61404,Agent de contrôle non destructif en mécanique et travail des métaux,عون المراقبة الغير تدميرية في الميكانيك وتشغيل المعادن
+61403,Agent de contrôle destructif en mécanique et travail des métaux,عون مراقبة تدميرية في الميكانيك وتشغيل المعادن
+61402,Technicien laboratoire en matériaux de construction,تقني مختبر في مواد البناء
+61401,Technicien de laboratoire d'analyse industrielle,تقني مختبر تحليل صناعي
+61317,Technicien de contrôle en métallurgie/sidérurgie,تقني مراقبة في الميتالورجيا / الحديد والصلب
+61316,Technicien de contrôle en industrie pharmaceutique,تقني مراقبة في صناعة الأدوية
+61315,Technicien de contrôle en industrie chimique,تقني مراقبة في صناعة الكيمياء
+61314,Technicien de contrôle en industrie alimentaire,تقني مراقبة في صناعة الأغذية
+61313,Technicien de contrôle en énergie/pétrochimie,تقني مراقبة في مجال الطاقة / البتروكيماويات
+61312,Technicien d'analyse industrielle,تقني تحليل صناعي
+61311,Technicien d'analyse en industrie alimentaire,تقني تحليل في صناعة الأغذية
+61310,Technicien d'analyse des eaux,تقني تحليل المياه
+61309,Technicien d'analyse de la qualité de l'eau,تقني تحليل جودة المياه
+61308,Technicien chimiste de contrôle en industrie,تقني كيميائي لمراقبة الصناعة
+61307,Technicien chimiste d'analyse industrielle,تقني كيميائي لتحليل الصناعة
+61306,Technicien chimie environnement en industrie,تقني في الكيمياء البيئية في الصناعة
+61305,Préleveur d'eau,عون مكلف بأخذ عينات الماء
+61304,Préleveur d'analyse industrielle,عون مكلف بأخذ العينات للتحليل الصناعي
+61303,Laborantin de contrôle en industrie,مساعد مخبري في المراقبة الصناعية
+61302,Laborantin d'analyse industrielle,مساعد مخبري في التحليل الصناعي
+61301,Formulateur en arômes,محضر تركيبة النكهات
+61225,Chimiste d'analyse industrielle,مختص الكيمياء في التحليل الصناعي
+61224,Chimiste de contrôle en industrie,مختص الكيمياء في المراقبة الصناعية
+61223,Biologiste en analyse pharmaceutique,مختص بيولوجي في التحليل الصيدلاني
+61222,Biologiste en contrôle industriel,مختص بيولوجي في المراقبة الصناعية
+61221,Biologiste en analyse industrielle,مختص بيولوجي في التحليل الصناعي
+61220,Analyste sensoriel,محلل تحسيسي
+61219,Ingénieur qualité en industrie,مهندس مراقبة النوعية في الصناعة
+61218,Ingénieur métallurgiste en qualité industrielle,مهندس معدني في النوعية الصناعية
+61217,Ingénieur métallographie en qualité industrielle,مهندس مختص في التركيب المعدني في النوعية الصناعية
+61216,Ingénieur mécanicien en qualité industrielle,مهندس ميكانيكي في النوعية الصناعية
+61215,Ingénieur d'essai en qualité industrielle,مهندس التجارب في النوعية الصناعية
+61214,Ingénieur contrôle réception en industrie,مهندس مراقبة الاستلام في الصناعة
+61213,Ingénieur contrôle qualité en industrie pharmaceutique,مهندس مراقبة النوعية في الصناعية الصيدلانية
+61212,Ingénieur contrôle qualité en industrie,مهندس مراقبة النوعية الصناعية
+61211,Ingénieur chimiste en qualité industrielle,مهندس كيميائي في النوعية الصناعية
+61210,Ingénieur assurance qualité en industrie,مهندس تأمين النوعية الصناعية
+61209,Coordinateur qualité environnement en industrie,منسق عام في نوعية البيئة الصناعية
+61208,Coordinateur qualité en industrie,منسق النوعية الصناعية
+61207,Auditeur qualité en industrie,مدقق نوعية في الصناعة
+61206,Technicien planification de production industrielle,تقني في تخطيط الإنتاج الصناعي
+61205,Technicien ordonnancement-lancement production,تقني مصلحة تنظيم وإدارة انطلاق الإنتاج
+61204,Technicien en gestion de production industrielle,تقني في تسيير الانتاج الصناعي
+61203,Technicien méthodes en industrie,تقني في طرق الإنتاج في الصناعة
+61202,Responsable méthodes en industrie,رئيس مصلحة طرق الإنتاج الصناعي
+61201,Ingénieur méthodes en industrie,مهندس طرق الإنتاج في الصناعة
+61113,Inspecteur des appareils sous pression (APVG),مفتش الأجهزة تحت الضغط (APVG)
+61112,Inspecteur des appareils électriques (APE),مفتش الأجهزة الكهربائية (APE)
+61111,Inspecteur des appareils de levage et de manutention (APL),مفتش أجهزة الرفع والشحن والتفريغ (APL)
+61110,Inspecteur de contrôle non destructif -CND,مفتش المراقبة غير التدميرية CND
+61109,"Superviseur hygiène, sécurité et environnement en industrie",مدير النظافة، السلامة والبيئة في الصناعة
+61108,"Préventeur hygiène, sécurité et environnement en industrie",مكلف بالوقاية في النظافة، السلامة والبيئة في الصناعة
+61107,"Ingénieur hygiène, sécurité et environnement en industrie",مهندس النظافة، السلامة والبيئة في الصناعة
+61106,"Coordinateur hygiène, sécurité et environnement en industrie",منسق النظافة، السلامة والبيئة في الصناعة
+61105,"Animateur hygiène, sécurité et environnement en industrie",منشط النظافة، السلامة والبيئة في الصناعة
+61104,Designer textiles,مصمم المواد النسيجية
+61103,Designer packaging,مصمم الأغلفة وعلب التعبئة
+61102,Designer mobilier,مصمم أثاث
+61101,Designer produit,مصمم منتوجات
+61004,Maquettiste en conception industrielle,مصمم مجسمات في التصميم الصناعي
+61003,Dessinateur-projeteur en tuyauterie industrielle,رسام الاسقاط في الأنابيب الصناعية
+61002,Dessinateur-projeteur en construction métallique,رسام الاسقاط في البناءات المعدنية
+61001,Dessinateur-projeteur en construction mécanique,رسام الاسقاط في البناءات الميكانيكية
+60903,Dessinateur petites études en mécanique,رسام دراسات صغيرة في الميكانيك
+60902,Dessinateur en tuyauterie industrielle,رسام أنابيب صناعية
+60901,Dessinateur en outillage,رسام أدوات
+60804,Dessinateur en construction mécanique,رسام في البناءات الميكانيكية
+60803,Dessinateur en chaudronnerie,رسام في الصناعة المعدنية
+60802,Dessinateur en charpente métallique,رسام في الهياكل المعدنية
+60801,Dessinateur d'exécution en mécanique,رسام تنفيذي في الميكانيك
+60708,Dessinateur d'exécution en construction mécanique,رسام تنفيذي في البناءات الميكانيكية
+60707,Dessinateur d'études en mécanique,رسام الدراسات في الميكانيك
+60706,Dessinateur d'études en construction mécanique,رسام دراسات في البناءات الميكانيكية
+60705,Concepteur de produits industriels mécaniques,مصمم منتجات صناعية ميكانيكية
+60704,Calculateur études en mécanique,مكلف بالحسابات الدراسات في الميكانيك
+60703,Technicien supérieur études en électronique,تقني سامي في الدراسات الإلكترونية
+60702,Technicien supérieur études en électricité,تقني سامي في الدراسات الكهربائية
+60701,Responsable de bureau d'études techniques électriques et électroniques,مسؤول مكتب دراسات تقنية كهربائية في الإلكترونيك
+60606,Ingénieur technique électrique et électronique,مهندس تقني كهربائي وإلكتروني
+60605,Ingénieur projet d'études électrique et électronique,مهندس مشروع دراسة كهربائية وإلكترونية
+60604,Dessinateur d'exécution en électricité,رسام تنفيذي في الكهرباء
+60603,Dessinateur d'études en électricité,رسام دراسات كهربائية
+60602,Dessinateur de schémas électriques,رسام مخططات كهربائية
+60601,Concepteurréalisateur de produits électriques,مصمم – منجز منتجات كهربائية
+60516,Chef de projet de produits électriques et électroniques,رئيس مشروع منتجات كهربائية وإلكترونية
+60515,Technicien galéniste,تقني في صناعة الصيغ الصيدلانية للأدوية
+60514,Technicien en recherche-développement en industrie,تقني في البحوث والتطوير في الصناعة
+60513,Technicien en recherche scientifique,تقني في البحث العلمي
+60512,Technicien d'études et recherche en électronique,تقني في دراسات وبحوث الإلكترونيات
+60511,Technicien d'études en recherche et développement en industrie,تقني في دراسات البحوث والتطوير في الصناعة
+60510,Technicien d'études en informatique industrielle,تقني في الإعلام الآلي الصناعي
+60509,Technicien de recherche et développement en robotique,تقني في البحوث وتطوير الصناعات الروبوتية
+60508,Technicien de recherche et développement en métallurgie,تقني في البحوث وتطوير الصناعة المعدنية
+60507,Technicien de bureau d'études techniques BETen développement industriel,تقني في مكتب الدراسات التقنية في التطوير الصناعي
+60506,Technicien biologiste en recherche-développement,تقني بيولوجي في البحث والتطوير
+60505,Technicien chimiste en recherche-développement,تقني كيميائي في البحث والتطوير
+60504,Rédacteur technique,كاتب تقني
+60503,Ingénieur chimiste en industrie,مهندس كيميائي في الصناعة
+60502,Galéniste en industrie pharmaceutique,متخصص في الصيغ الصيدلانية في صناعة الأدوية
+60501,Directeur d'études recherche et développement en industrie,مدير الدراسات والبحوث والتطوير في الصناعة
+60410,Directeur d'études et recherche en galénique,مدير الدراسات والبحوث في الصيغ الصيدلانية
+60409,Développeur de système électrique,مطوِّر لأنظمة كهربائية
+60408,Chef de projet recherche et développement en industrie,رئيس مشروع البحث والتطوير في الصناعة
+60407,Chargé d'études et développement en industrie pharmaceutique,مكلف بدراسات وتطوير في صناعة الأدوية
+60406,Chargé d'études projets industriels,مكلف بدراسات مشاريع صناعية
+60405,"Bio-informaticien en études, recherche et développement",معلوماتي حيوي في الدراسات والبحث والتطوير
+60404,Automaticien d'études et développement en industrie,مهندس دراسات وتطوير في الصناعة
+60403,Représentant technique utilisateur,ممثل تقني للزبون المستخدم
+60402,Ingénieur assistance technique en maintenance,مهندس تقني في الصيانة
+60401,Ingénieur assistance technique,مهندس الدعم التقني
+60322,Ingénieur assistance technique service client,مهندس خدمة الزبائن
+60321,Chef de cellule assistance technique,رئيس الخلية التقنية
+60320,Responsable de gestion des contrats marchés,مسؤول تسيير عقود الصفقات
+60319,Responsable d'affaires en industrie,مسؤول الأعمال في الصناعة
+60318,Ingénieur technico-commercial affaires industrielles,مهندس تقني تجاري في الأعمال الصناعية
+60317,Chargé d'affaires et partenariat,مكلف بالأعمال والشراكة
+60316,Chargé d'affaires en industrie,مكلف بالأعمال في الصناعة
+60315,Concepteur rédacteur multimédia,مصمم وكاتب الوسائط المتعددة
+60314,Concepteur réalisateur multimédia,مصمم ومخرج الوسائط المتعددة
+60313,Concepteur réalisateur communication,مصمم ومخرج في الوسائط المتعددة
+60312,Concepteur multimédia,مصمم الوسائط المتعددة
+60311,Concepteur en publicité,مصمم الإعلانات
+60310,Concepteur de jeux vidéo,مصمم ألعاب الفيديو
+60309,Chef de groupe de création multimédia,رئيس فريق الاعداد في وسائل الإعلام
+60308,Organisateur de soirées,منظم السهرات 
+60307,Organisateur de réceptions,منظم حفلات الاستقبال
+60306,Organisateur de séminaires,منظم الملتقيات
+60305,Organisateur de mariages ,منظم حفلات الزفاف 
+60304,Conseiller en organisation événementielle,مستشار في تنظيم التظاهرات
+60303,Chef de projet événementiel,رئيس مشروع في تنظيم التظاهرات
+60302,Assistant commercial d'événementiel,مساعد تجاري في تنظيم التظاهرات
+60301,Technicien produits électroménager brun,تقني منتوجات أجهزة كهربائية منزلية داكنة
+60205,Technicien produits électroménager blanc,تقني منتوجات أجهزة كهربائية منزلية بيضاء
+60204,"Technicien en télévision, hi-fi",تقني في التلفزيون وأجهزة الصوت عالية الوضوح
+60203,Technicien en électroménager,تقني في الأجهزة الكهرومنزلية
+60202,Technicien dépanneur petits électroménagers,تقني مصلح أجهزة كهربائية منزلية صغيرة
+60201,Technicien dépanneur gros électroménagers,تقني مصلح أجهزة كهربائية منزلية كبيرة
+60105,Technicien de maintenance en appareils électroménagers,تقني في الصيانة للأجهزة الكهربائية المنزلية
+60104,Responsable service après-vente-SAVen électroménager,مسؤول مصلحة ما بعد البيع في أجهزة كهربائية منزلية
+60103,"Réparateur en télévision, hi-fi",فني صيانة تلفزيون وأجهزة صوت عالية الوضوح
+60102,Réparateur en électroménager,فني صيانة أجهزة كهربائية منزلية
+60101,Réparateur de matériels photographiques,مصلح معدات التصوير الفوتوغرافي
+50303,Réparateur de machines à coudre,مصلح آلات الخياطة
+50302,Réparateur d'appareils photographiques,مصلح أجهزة تصوير فوتوغرافي
+50301,"Dépanneur en télévision, hi-fi",مصلح تلفزيون وأجهزة صوت عالية الوضوح
+50208,Dépanneur en électroménager,مصلح في مجال الأجهزة الكهربائية المنزلية
+50207,Dépanneur d'équipements électroménager brun,مصلح أجهزة كهربائية منزلية داكنة
+50206,Dépanneur d'équipements électroménager blanc,مصلح أجهزة كهربائية منزلية بيضاء
+50205,Dépanneur d'appareils électroménagers,مصلح أجهزة كهربائية منزلية
+50204,Technicien support en systèmes téléinformatiques,تقني دعم في مجال أنظمة الاتصالات عن بُعد
+50203,Technicien support en bureautique,تقني دعم في مجال التكنولوجيا المكتبية
+50202,Technicien en téléassistance en informatique,تقني في تقديم الدعم عن بُعد في مجال تكنولوجيا المعلومات
+50201,Technicien en réseau local informatique,تقني في شبكات الحوسبة المحلية
+50107,Technicien de service après-vente-SAVen bureautique,تقني خدمة ما بعد البيع (SAV) في مجال التكنولوجيا المكتبية
+50106,Technicien de maintenance en matériels informatiques,تقني صيانة في مجال تكنولوجيا المعدات المعلوماتية
+50105,Technicien de maintenance en matériel de bureau,تقني صيانة في مجال تكنولوجيا معدات المكتب
+50104,Technicien de maintenance en informatique,تقني صيانة في مجال تكنولوجيا المعلومات
+50103,Technicien de maintenance en bureautique,تقني صيانة في مجال التكنولوجيا المكتبية
+50102,Technicien de maintenance de systèmes informatiques,تقني صيانة أنظمة المعلومات
+50101,Technicien de maintenance de réseaux télématiques,تقني صيانة الشبكات التليماتيكية
+40304,Technicien de maintenance de réseaux informatiques,تقني صيانة الشبكات المعلوماتية
+40303,Support aux utilisateurs en informatique,دعم لمستخدمي تكنولوجيا المعلومات
+40302,Superviseur help desk en informatique,مشرف في المساعدة المعلوماتية
+40301,Responsable micro-informatique,مسؤول الإعلام الآلي
+40218,Responsable centre d'appels en maintenance informatique,مسؤول مركز الاتصال في الصيانة المعلوماتية
+40217,Agent de maintenance sur télécopieurs,عون صيانة معدات النسخ
+40216,Agent de maintenance sur systèmes d'impression et de reprographie,عون صيانة أنظمة الطبع والنسخ
+40215,Agent de maintenance en informatique,عون صيانة أنظمة المعلومات
+40214,Agent de maintenance en bureautique,عون الصيانة المكتبية
+40213,Agent de maintenance de matériels de reprographie,عون صيانة معدات الطبع
+40212,Agent de maintenance de machines de bureau,عون صيانة آلات المكتب
+40211,Coach sportif,مدرب رياضي
+40210,Paysagiste,منسق الحدائق
+40209,Jardinier(ère),بستاني
+40208,Assistant(e) aux rendez-vous médicaux,مساعد(ة) في المواعيد الطبية
+40207,Aide aux courses,مساعد(ة)  في التسوق
+40206,Chauffeur(se) de personnes,سائق(ة) للأفراد
+40205,Coach scolaire,مدرب مدرسي
+40204,Tuteur(trice) scolaire,معلم(ة) خصوصي(ة) مدرسي(ة)
+40203,Enseignant(e) particulier(e),مدرس(ة) خصوصي(ة)
+40202,Livraison de repas à domicile,توصيل الوجبات إلى المنزل
+40201,Chef à domicile,شَيف منزلي
+40122,Cuisinier(ère) à domicile,طباخ(ة) منزلي(ة)
+40121,Kinésithérapeute,أخصائي في العلاج طبيعي
+40120,Ergothérapeute,أخصائي في العلاج الوظيفي
+40119,Assistant(e) de vie,مساعد(ة) في الحياة
+40118,Accompagnateur/trice de personnes à mobilité réduite,مرافق/مرافقة للأشخاص ذوي الحركة المحدودة
+40117,Accompagnateur/trice de personnes âgées,مرافق/مرافقة لكبار السن
+40116,Aide à domicile,مساعد منزلي
+40115,Infirmier(ère) à domicile,ممرض/ممرضة منزلية
+40114,Aide-soignant(e),ممرض/ممرضة مساعدة
+40113,Auxiliaire de vie,مُرَافِق(ة) في الحَيَاة
+40112,Garde d'enfants malades,رعاية الأطفال المرضى
+40111,Garde d'enfants partagée,رعاية الأطفال المشتركة
+40110,Auxiliaire parentale,مساعدة الوالدين في رعاية الأطفال
+40109,Garde d'enfants,جليسة أطفال
+40108,Gérant(e) de résidence Airbnb ou autre plateforme de location de logements,مسير خدمات الاسكان أو أي منصة أخرى لتأجير أماكن الإقامة
+40107,Gestionnaire de réseaux sociaux pour des entreprises en ligne,مسير وسائل التواصل الاجتماعي لشركات عبر الإنترنت
+40106,Designer de produits sur des plateformes de crowdsourcing,مصمم منتجات على منصات التسويق التشاركي
+40105,Rédacteur(trice) / copywritter,كاتب / كاتب نصوص ترويجية
+40104,Graphiste freelance ,مصمم جرافيك مستقل
+40103,Technicien(ne) informatique à domicile,تقني في المعلوماتية عن بعد
+40102,Téléconseiller(ère) pour les plateformes de services en ligne,مستشار هاتفي لمنصات الخدمة عبر الإنترنت
+40101,Chargé(e) de la logistique d'une entreprise de livraison,مكلف باللوجستيات في شركة توصيل
+31002,Coursier(e) à moto,ساعي بواسطة دراجة نارية
+31001,Livreur à vélo ou à scooter,عامل توصيل بالدراجة أو السكوتر
+30904,Chauffeur VTC (voiture de transport avec chauffeur),سائق VTC (سيارة نقل مع سائق)
+30903,Webmaster,رئيس مواقع الويب (ويب ماستر)
+30902,Administrateur système informatique,مسؤول عن إدارة النظام المعلوماتي
+30901,Administrateur sécurité informatique,مسؤول عن إدارة الأمن الإعلامي
+30801,Administrateur réseauxtélécoms,مسؤول عن إدارة شبكات الاتصالات
+30703,Administrateur réseau informatique,مسؤول عن إدارة الشبكات الإعلامية
+30702,Administrateur de site Web,مسؤول عن إدارة مواقع الويب
+30701,Administrateur de site internet,مسؤول عن إدارة مواقع الإنترنت
+30603,Administrateur de serveurs,مسؤول عن إدارة الخوادم
+30602,Administrateur de la messagerie,مسؤول عن إدارة البريد الإلكتروني
+30601,Administrateur de bases de données,مسؤول عن إدارة قواعد المعطيات نظام المعلومات
+30504,Technicien système informatique,تقني في النظام المعلوماتي
+30503,Technicien réseau informatique,تقني في الشبكة المعلوماتية
+30502,Technicien informatique,تقني في الإعلام الآلي
+30501,Technicien d'exploitation système informatique,تقني تشغيل النظام المعلوماتي
+30404,Ingénieur support exploitation informatique,مهندس في وسائل استغلال الإعلام الآلي
+30403,Ingénieur exploitation système informatique,مهندس في استغلال النظام المعلوماتي
+30402,Ingénieur d'exploitation informatique,مهندس تشغيل الإعلام الآلي
+30401,Gestionnaire du parc informatique,مسير تجهيزات الإعلام الآلي
+30303,Gestionnaire de ressources matérielles informatiques,مسير الموارد المادية في الإعلام الآلي
+30302,Exploitant réseau informatique,مشغل الشبكة المعلوماتية
+30301,Exploitant informatique,مشغل في الإعلام الآلي
+30208,Chef de salle informatique,رئيس قاعة الإعلام الآلي
+30207,Testeur informatique,مختبر في الإعلام الآلي
+30206,Technicien programmation,تقني برمجة
+30205,Responsable d'étude informatique,مسؤول الدراسات في المعلوماتية
+30204,Responsable des développements informatiques,مسؤول التطوير في المعلوماتية
+30203,Responsable de projet informatique,مسؤول المشروع المعلوماتي
+30202,Responsable d'atelier de génie logiciel,مسؤول عن ورشة هندسة البرمجيات
+30201,Responsable d'application informatique,مسؤول عن التطبيقات في الإعلام الآلي
+30104,Programmeur jeux vidéo,مبرمج ألعاب الفيديو
+30103,Programmeur informatique,مبرمج في الإعلام الآلي
+30102,Paramétreur logiciel ERP,واضع معالم برنامج تخطيط موارد ERP المؤسسة
+30101,Lead programmeur jeux vidéo,مبرمج رئيسي في الألعاب الفيديو
+21914,Intégrateur de développement informatique,مدمج في تطوير الإعلام الآلي
+21913,Intégrateur d'application informatique,مدمج تطبيقات الإعلام الآلي
+21912,Ingénieur test composants informatique,مهندس اختبار مكونات الإعلام الآلي
+21911,Ingénieur intégration-validation informatique,مهندس في إدماج مكونات الإعلام الآلي
+21910,Ingénieur informaticien informaticienne,مهندس في الإعلام الآلي
+21909,Ingénieur d'intégration applicative,مهندس في إدماج مكونات الإعلام الآلي
+21908,Ingénieur d'étude informatique,مهندس الدراسات المعلوماتية
+21907,Ingénieur d'étude et développement informatique,مهندس الدراسات و التطوير المعلوماتي
+21906,Ingénieur de développement informatique,مهندس في التطوير المعلوماتي
+21905,Ingénieur de conception informatique,مهندس في التصميم المعلوماتي
+21904,Ingénieur d'application informatique,مهندس في تطبيقات الإعلام الآلي
+21903,Ingénieur analyste en système d'information,مهندس محلل في النظام المعلوماتي
+21902,Informaticien de développement,أخصائي في الإعلام الآلي مكلف بالدراسة
+21901,Informaticien d'application,أخصائي في تطوير المعلوماتية
+21810,Informaticien chargé d'étude,أخصائي في تطبيقات الإعلام الآلي
+21809,Développeur web,مطور مواقع الويب
+21808,Développeur multimédia,مطور في الوسائل الإعلام المتعددة
+21807,Développeur jeux vidéo,مطور ألعاب الفيديو
+21806,Développeur informatique,مطور المعلوماتية
+21805,Développeur ERP,مطور تخطيط موارد المؤسسة
+21804,Développeur décisionnelBusiness Intelligence,مطور في الذكاء المعلوماتي
+21803,Développeur d'application,مطور التطبيقات المعلوماتية
+21802,Concepteur logiciel informatique,مصمم البرمجيات المعلوماتية
+21801,Concepteur intégrateur informatique,مصمم مدمج مكونات الإعلام الآلي
+21714,Concepteur développeur web,مصمم مطور مواقع الويب
+21713,Concepteur développeur informatique,مصمم مطور في الإعلام الآلي
+21712,Chef de projet maîtrise d'oeuvre informatique,رئيس مشروع معلوماتي
+21711,Chef de projet étude et développement informatique,رئيس مشروع الدراسة و التطوير المعلوماتي
+21710,Assistant chef de projet informatique,مساعد رئيس مشروع في الإعلام الآلي
+21709,Analyste-programmeur informatique,محلل مبرمج في الإعلام الآلي
+21708,Analyste test informatique,محلل في الاختبار المعلوماتي
+21707,Analyste télématique,محلل المعلوماتية البعدية (تليماتيك)
+21706,Analyste réseau informatique,محلل شبكة الإعلام الآلي
+21705,Analyste organique informatique,محلل معمارية البرمجيات
+21704,Analyste fonctionnel informatique,محلل النظم المعلوماتية
+21703,Analyste développeur,محلل مطور البرامج المعلوماتية
+21702,Analyste designer informatique,محلل مصمم في المعلوماتية
+21701,Analyste décisionnelBusiness Intelligence,محلل في الذكاء المعلوماتي
+21652,Analyste de gestion informatique,محلل التسيير في الإعلام الآلي
+21651,Analyste d'application,محلل تطبيقات الإعلام الآلي
+21650,Analyste concepteur informatique,محلل مصمم في الإعلام الآلي
+21649,Technicien ingénierie réseaux de télécoms,تقني في هندسة شبكات الاتصالات
+21648,Technicien en installation et maintenance réseaux télécoms,تقني في تركيب وصيانة شبكات الاتصالات
+21647,Projeteur spécialisé réseaux télécoms,مهندس دراسات ومصمم شبكات الاتصالات
+21646,Marketeur réseaux de télécoms,رئيس خلية صيانة وإنتاج الاتصالات
+21645,Ingénieur validation réseaux de télécoms,مهندس المصادقة على شبكات الاتصالات
+21644,Ingénieur télécoms,مهندس اتصالات
+21643,Ingénieur télécommunication,مهندس الاتصالات اللاسلكية
+21642,Ingénieur supervision réseaux télécoms sous-marins,مهندس الإشراف على شبكات الاتصالات تحت سطح المياه
+21641,Ingénieur supervision réseaux télécoms,مهندس في الإشراف على شبكات الاتصالات
+21640,Ingénieur réseaux télécoms,مهندس شبكات الاتصالات
+21639,Ingénieur radio,مهندس راديو
+21638,Ingénieur en architecture télécoms,مهندس في معمارية الاتصالات
+21637,Ingénieur déploiement télécoms,مهندس نشر الاتصالات
+21636,Ingénieur déploiement réseaux télécoms urbains,مهندس نشر شبكات الاتصالات الحضرية
+21635,Ingénieur déploiement maintenance réseaux télécoms,مهندس نشر وصيانة شبكات الاتصالات
+21634,Ingénieur d'études et support télécoms,مهندس الدراسات ووسائل الاتصالات
+21633,Ingénieur d'études et conception réseaux télécoms,مهندس دراسات وتصميم شبكات الاتصالات
+21632,Consultant télécoms,استشاري الاتصالات
+21631,Chef de projet télécoms,رئيس مشروع الاتصالات
+21630,Chargé réseaux télécoms sous-marins,مكلف بشبكات الاتصالات تحت سطح المياه
+21629,Chargé d'opération réseaux de télécoms,مكلف بعمليات شبكات الاتصالات
+21628,Chargé d'études et conception réseaux télécoms,مكلف بالدراسات وتصميم شبكات الاتصالات
+21627,Chargé de planification réseaux de télécoms,مكلف بتخطيط شبكات الاتصالات
+21626,Architecte réseaux de télécoms,مهندس شبكات الاتصالات
+21625,Urbaniste des systèmes d'information,مهندس أنظمة المعلومات
+21624,Responsable qualité des systèmes d'information,مدير جودة أنظمة المعلومات
+21623,Responsable de projets « métiers » systèmes d'information,مدير مشروع أنظمة المعلومات لعمليات الأعمال
+21622,"Responsable architecture, urbanisme et veille technologie IT",مدير هندسة التكنولوجيا والتخطيط التكنولوجي
+21621,Maître d'ouvrage systèmes d'information,صاحب الأعمال أنظمة المعلومات
+21620,Gestionnaire d'applications systèmes d'information,مدير تطبيقات أنظمة المعلومات
+21619,Expert métier systèmes d'information,خبير في مجال أنظمة المعلومات
+21618,Coordinateur de la maîtrise d'ouvrage des systèmes d'information,منسق متطلبات أنظمة المعلومات
+21617,Consultant réseaux informatiques,استشاري شبكات الإعلام الآلي
+21616,Consultant informatique,استشاري الإعلام الآلي
+21615,Consultant fonctionnel des systèmes d'information,استشاري وظائف أنظمة المعلومات
+21614,Consultant –ERP,استشاري في تخطيط موارد المؤسسة ERP
+21613,Consultant en systèmes d'information,استشاري في أنظمة المعلومات
+21612,Consultant en gestion de la relation client GRC/CRM,استشاري في إدارة العلاقات مع الزبائن GRC/CRM
+21611,Consultant décisionnel,استشاري ذكاء الأعمال
+21610,Chef de projet maîtrise d'ouvrage des systèmes d'information,مدير مشروع أنظمة المعلومات
+21609,Chef de projet maîtrise d'ouvrage-MOA,مدير مشروع تكنولوجيا المعلومات
+21608,Assistant maîtrise d'ouvrage des systèmes d'information,محلل أعمال أنظمة المعلومات
+21607,Architecte systèmes et réseaux,مهندس أنظمة وشبكات
+21606,Architecte fonctionnel de systèmes d'information,مهندس وظائف أنظمة المعلومات
+21605,Architecte des systèmes d'information,مهندس أنظمة المعلومات
+21604,Responsable sécurité informatique,مسؤول أمن المعلومات
+21603,Ingénieur système réseau informatique,مهندس نظام الشبكة المعلوماتية
+21602,Ingénieur système informatique,مهندس نظام المعلومات
+21601,Ingénieur sécurité informatique,مهندس أمن المعلومات
+21525,Ingénieur réseau informatique,مهندس شبكة المعلومات
+21524,Ingénieur méthodes informatiques,مهندس أساليب المعلومات
+21523,Expert système et réseaux,خبير في أنظمة وشبكات المعلومات
+21522,Expert sécurité informatique,خبير في أمن المعلومات
+21521,Expert réseaux et télécoms,خبير في الشبكات والاتصالات
+21520,Expert méthodes et qualité informatique,خبير في أساليب وجودة المعلومات
+21519,Expert en technologie Internet et multimédia,خبير في تكنولوجيا الإنترنت ووسائل الإعلام المتعددة
+21518,Auditeur en systèmes d'information,مدقق نظام المعلومات
+21517,Architecte systèmes d'information,مهندس نظام المعلومات
+21516,Architecte système informatique,مهندس الأنظمة المعلوماتية
+21515,Architecte réseaux informatiques,مهندس الشبكات المعلوماتية
+21514,Architecte réseau et sécurité,مهندس في الشبكات والسلامة المعلوماتية
+21513,Architecte multimédia,مهندس في وسائل الإعلام المتعددة
+21512,Architecte de données informatiques,مهندس المعطيات المعلوماتية
+21511,Architecte de bases de données,مهندس قاعدة البيانات المعلوماتية
+21510,Éditeur(trice) de contenu pédagogique en ligne,محرر المحتوى التعليمي عبر الإنترنت
+21509,Spécialiste en apprentissage en ligne,متخصص في التعلم عبر الإنترنت
+21508,Responsable de la conception de programmes de formation en ligne,مسؤول عن تصميم البرامج التعليمية عبر الإنترنت
+21507,Ingénieur(e) pédagogique numérique,مهندس تعليم رقمي
+21506,Analyste de données de l'éducation en ligne,محلل بيانات التعليم عبر الإنترنت
+21505,Développeur(se) de contenu de formation en ligne,مطور محتوى التعليم عبر الإنترنت
+21504,Spécialiste en technologie de l'éducation,أخصائي تكنولوجيا التعليم
+21503,Responsable de la formation en ligne,مدير التعليم عبر الإنترنت
+21502,Concepteur(trice) de programmes de formation en ligne,مصمم برامج التعليم عبر الإنترنت
+21501,Enseignant(e) en ligne,مدرس على الانترنت
+21421,Consultant(e) en stratégie e-commerce,مستشار استراتيجية التجارة الإلكترونية
+21420,Spécialiste en logistique e-commerce,متخصص في الخدمات اللوجستية للتجارة الإلكترونية
+21419,Analyste de performance e-commerce,محلل أداء التجارة الإلكترونية
+21418,Gestionnaire de campagnes publicitaires e-commerce,مدير الحملة الإعلانية للتجارة الإلكترونية
+21417,Analyste de marché e-commerce,محلل سوق التجارة الإلكترونية
+21416,Spécialiste en gestion de la relation client en ligne,متخصص في إدارة علاقات العملاء عبر الإنترنت
+21415,Spécialiste en optimisation de la conversion,أخصائي تحسين التحويل
+21414,Développeur(se) de sites e-commerce,مطور مواقع التجارة الإلكترونية
+21413,Analyste e-commerce,محلل التجارة الإلكترونية
+21412,Marketeur e-commerce,مسوق التجارة الالكترونية
+21411,Architecte de solutions multicloud,مهندس الحلول السحابية المتعددة
+21410,Ingénieur(e) en orchestration de conteneurs,مهندس تنظيم الحاويات
+21409,Ingénieur(e) DevOps,مهندس ديف أوبس DevOps
+21408,Développeur(se) cloud,مطور السحابة
+21407,Spécialiste en gestion de données cloud,أخصائي إدارة البيانات السحابية
+21406,Spécialiste en sécurité cloud,أخصائي الأمن السحابي
+21405,Consultant(e) en migration vers le cloud,مستشار الهجرة السحابية
+21404,Administrateur(trice) de système cloud,مسؤول النظام السحابي
+21403,Architecte de solutions cloud,مهندس الحلول السحابية
+21402,Ingénieur(e) cloud,مهندس السحابة
+21401,Chercheur(euse) en cybersécurité,باحث في الأمن السيبراني 
+21319,Spécialiste en conformité réglementaire en sécurité,أخصائي التطابق التنظيمي في مجال الامن السيبراني
+21318,Spécialiste en analyse de risques,أخصائي تحليل المخاطر
+21317,Auditeur(trice) en sécurité informatique,مدقق أمن تكنولوجيا المعلومات
+21316,Spécialiste en gestion des identités et des accès,أخصائي في مجال الهويات والتصريح بالدخول
+21315,Spécialiste en sécurité des systèmes,أخصائي أمن الأنظمة
+21314,Ingénieur(e) en sécurité informatique,مهندس أمن تكنولوجيا المعلومات
+21313,Expert(e) en sécurité des réseaux,خبير أمن الشبكات
+21312,Responsable de la sécurité de l'information,مسؤول الأمن المعلوماتي
+21311,Analyste de la cybersécurité,محلل الأمن السيبراني
+21310,Spécialiste en visualisation de données,أخصائي تصور البيانات
+21309,Spécialiste en stockage de données,أخصائي تخزين البيانات
+21308,Spécialiste en exploration de données,أخصائي استخراج البيانات
+21307,Ingénieur(e) de données,مهندس بيانات
+21306,Data engineer,مهندس تطوير بيانات
+21305,Data analyst,محلل بيانات
+21304,Data scientist,عالم البيانات
+21303,Architecte de solutions Big Data,مهندس حلول البيانات الضخمة
+21302,Analyste de données massives,محلل البيانات الضخمة
+21301,Ingénieur(e) en big data,مهندس بيانات ضخمة
+21210,Développeur(se) de systèmes d'intelligence artificielle,مطور أنظمة الذكاء الاصطناعي
+21209,Développeur(se) de chatbot,مطور الشات بوت Chat-bot 
+21208,Spécialiste en reconnaissance vocale,أخصائي التعرف على الصوت
+21207,Spécialiste en vision par ordinateur,أخصائي في تقنية الرؤية الحاسوبية
+21206,Chercheur(euse) en intelligence artificielle,باحث في الذكاء الاصطناعي
+21205,Architecte de solutions en intelligence artificielle,مهندس حلول الذكاء الاصطناعي
+21204,Ingénieur(e) en apprentissage automatique,مهندس التعلم الآلي
+21203,Ingénieur(e) en traitement du langage naturel,مهندس معالجة اللغات الطبيعية
+21202,Ingénieur(e) en deep learning,مهندس التعلُّم العميق 
+21201,Ingénieur(e) en machine learning,التعلم الآلي
+21111,Ingénieur(e) en traitement de la langue naturelle,مهندس في معالجة اللغات الطبيعية
+21110,Ingénieur(e) de la vision par ordinateur,مهندس رؤية الكمبيوتر
+21109,Ingénieur(e) IoT (Internet des Objets),مهندس إنترنت الأشياء (إنترنت الأشياء)
+21108,Développeur(se) de jeux vidéo,مطور ألعاب فيديو
+21107,Développeur(se) de réalité augmentée,مطور الواقع المعزز
+21106,Développeur(se) de blockchain,مطور Blockchain
+21105,Ingénieur(e) en robotique,مهندس الروبوتات
+21104,Spécialiste en réalité virtuelle,متخصص في الواقع الافتراضي
+21103,Ingénieur(e) en intelligence artificielle,مهندس الذكاء الاصطناعي
+21102,Spécialiste en service après-vente,اخصائي خدمات ما بعد البيع
+21101,Spécialiste en fidélisation de la clientèle,أخصائي ولاء العملاء
+21010,Analyste des performances de service client,محلل أداء خدمة العملاء
+21009,Gestionnaire de projet de service client,مدير مشروع خدمة العملاء
+21008,Spécialiste de l'expérience client,أخصائي تجربة العملاء
+21007,Spécialiste en relations publiques en ligne,أخصائي العلاقات العامة عبر الإنترنت
+21006,Gestionnaire de contenu en ligne,مدير المحتوى عبر الإنترنت
+21005,Community manager,مسير محتوى عبر الأنترنيت
+21004,Spécialiste en vente en ligne,متخصص في المبيعات عبر الإنترنت
+21003,Spécialiste en communication client,أخصائي اتصالات العملاء
+21002,Spécialiste du support technique,أخصائي دعم تقني
+21001,Analyste de la cybersécurité,محلل الأمن السيبراني
+20910,Architecte de solutions Cloud,مهندس الحلول السحابية
+20909,Développeur(se) agile,مطور البرمجيات اللينة
+20908,Scrum master,خبير سكروم scrum
+20907,Chef(fe) de projet numérique,مدير مشروع رقمي
+20906,Administrateur(trice) de base de données,مسؤول قاعدة البيانات 
+20905,Analyste en sécurité informatique,محلل أمن تكنولوجيا المعلومات
+20904,Analyste de la performance du site web,محلل أداء الموقع
+20903,Consultant(e) en transformation numérique,استشاري في التحول الرقمي
+20902,Gestionnaire de projet informatique,مدير مشروع تكنولوجيا المعلومات
+20901,Analyste de données,محلل بيانات
+20810,Spécialiste en stratégie de contenu,متخصص في استراتيجية المحتوى
+20809,Planificateur(trice) de campagnes publicitaires numériques,مخطط حملات الإعلان الرقمي
+20808,Consultant(e) en marketing numérique,استشاري التسويق الرقمي
+20807,Analyste de données marketing,محلل بيانات التسويق
+20806,Responsable marketing digital,مسؤول التسويق الرقمي
+20805,Spécialiste en marketing d'influence,متخصص في تسويق التأثير
+20804,Spécialiste en publicité en ligne,متخصص في الإعلان عبر الإنترنت
+20803,Spécialiste en marketing sur les réseaux sociaux,متخصص في التسويق على وسائل التواصل الاجتماعي
+20802,Spécialiste en marketing par e-mail,متخصص في التسويق عبر البريد الإلكتروني
+20801,Spécialiste en référencement payant (SEA),مُتخصّص في التحسين المدفوع لمحركات البحث (SEA)
+20710,Spécialiste en référencement naturel (SEO),مُتخصّص في التحسين الطبيعي لمحركات البحث (SEO)
+20709,Créateur de contenu sur les réseaux sociaux,صانع محتوى على وسائل التواصل الاجتماعي
+20708,Designer d'interfaces utilisateur pour l'IA,مصمم واجهة المستخدم بالذكاء الاصطناعي (IA)
+20707,Designer de produits numériques,مصمم المنتجات الرقمية
+20706,Designer 3D,مصمم ثلاثي الابعاد (3D)
+20705,Designer de jeux vidéo,مصمم لعبة فيديو
+20704,Motion designer,مصمم الحركة
+20703,Infographiste,مصمم انفوجرافيك
+20702,Illustrateur(trice),مصمم صور
+20701,Designer web,مصمم ويب
+20609,Designer UX/UI,مصمم تجربة المستخدم/واجهة المستخدم (UI/UX) 
+20608,Designer graphique,مصمم جرافيك
+20607,Développeur(se) Swift,مطور Swift
+20606,Développeur(se) Ruby,مطور Ruby
+20605,Développeur(se) JavaScript,مطور JavaScript
+20604,Développeur(se) C++,مطور C++
+20603,Développeur(se) PHP,مطور PHP
+20602,Développeur(se) Java,مطور Java
+20601,Développeur(se) Python,مطور Python
+20511,Développeur(se) back-end,مطور الخلفية
+20510,Développeur(se) front-end,مطور واجهة المستخدم
+20509,Développeur(se) full-stack,مطور متعدد المهام Full-stack 
+20508,Développeur(se) logiciel,مطور برمجيات
+20507,Développeur(se) mobile,مطور تطبيقات الجوال
+20506,Développeur(se) web,مطور ويب
+20505,Protectionniste principal superviseur en météorologie,مشرف رئيسي على الوقاية في الأرصاد الجوية
+20504,Protectionniste principal de la météorologie aéronautique,مكلف رئيسي بالوقاية في الأرصاد الجوية للطيران
+20503,Protectionniste assistance en météorologie,مكلف بالوقاية في الأرصاد الجوية للمساعدة
+20502,Protectionniste aéronautique en météorologie,مكلف بالوقاية في الأرصاد الجوية للطيران
+20501,Prévisionniste principal médias en météorologie,مُتنبأ جوي رئيسي لوسائل الإعلام
+20411,Prévisionniste principal assistance en météorologie,مُتنبأ جوي رئيسي للمساعدة في الأرصاد الجوية
+20410,Prévisionniste principal aéronautique en météorologie,مُتنبأ جوي رئيسي للطيران
+20409,Prévisionniste médias en météorologie,مُتنبأ جوي لوسائل الإعلام
+20408,Prévisionniste général en météorologie,مُتنبأ جوي عام
+20407,Prévisionniste assistance régionale en météorologie,مُتنبأ جوي إقليمي للمساعدة في الأرصاد الجوية
+20406,Prévisionniste assistance en météorologie,مُتنبأ جوي للمساعدة في الأرصاد الجوية
+20405,Prévisionniste aéronautique régional en météorologie,مُتنبأ جوي إقليمي للطيران
+20404,Prévisionniste aéronautique en météorologie,مُتنبأ جوي للطيران
+20403,Observateur principal instructeur en météorologie,ملاحظ جوي رئيسي مدرب في الأرصاد الجوية
+20402,Observateur météorologique principal,ملاحظ جوي رئيسي
+20401,Contrôleur d'observations météorologiques,مُراقب للملاحظات الجوية
+20313,Assistant technique de climatologie,مساعد فني في علم المناخ
+20312,Archiviste climatologique,مكلف بأرشيف البيانات المناخية
+20311,Technicien supérieur en topographie et géodésie,تقني سامي في الطبوغرافيا والمساحة التطبيقية (الجيوديسيا)
+20310,Technicien chargé des opérations de travaux cartographiques,تقني مكلف بعمليات الأشغال الخرائطية
+20309,Opérateur photogrammètre,عامل المسح التصويري
+20308,Ingénieur chargé de travaux cartographiques,مهندس مكلف بالأعمال الخرائطية
+20307,Ingénieur financier,مهندس مالي
+20306,Ingénieur opérations bourse,مهندس في تداولات البورصة
+20305,Economiste de marché financier,اخصائي اقتصادي في السوق المالي
+20304,Analyste risques financiers,محلل المخاطر المالية
+20303,Analyste marché financier,محلل السوق المالي
+20302,Analyste financier,محلل مالي
+20301,Analyste économique,محلل اقتصادي
+20212,Consultant en communication,استشاري في الاتصالات
+20211,Assistant relations publiques,مساعد في العلاقات العامة
+20210,Assistant relations presse,مساعد في العلاقات الصحفية
+20209,Assistant de communication,مساعد في الاتصالات
+20208,Technicien minéralogiste,تقني في جيولوجيا المعادن
+20207,Technicien géophysique,تقني جيوفيزيائي
+20206,Technicien géologue,تقني جيولوجي
+20205,Technicien en valorisation géologique,تقني في التقييم الجيولوجي
+20204,Technicien analyse en exploration pétrolière,تقني في تحليل الاستكشافات النفطية
+20203,Superviseur géophysique,مشرف جيوفيزيائي
+20202,Superviseur géologue,مشرف جيولوجي
+20201,Sondeur géologue,اخصائي في السبر الجيولوجي
+20113,Sismologue,اخصائي في علم الزلازل
+20112,Séismologue,عالم الزلازل
+20111,Pétrographe,اخصائي في الصخور الجيولوجية
+20110,Minérallurgiste,اخصائي في جيولوجيا المعادن
+20109,Ingénieur spécialiste en géophysique,مهندس خبير في الجيوفيزياء
+20108,Ingénieur spécialiste en géologie,مهندس خبير في الجيولوجيا
+20107,Ingénieur réservoir,مهندس في خزانات انتاج النفط
+20106,Ingénieur hydrogéologue,مهندس هيدروجيولوجي
+20105,Ingénieur géotechnicien,مهندس جيوتقني
+20104,Ingénieur géophysicien,مهندس جيوفيزيائي
+20103,Ingénieur géologue,مهندس جيولوجي
+20102,Ingénieur expert en valorisation géologique,مهندس خبير في التقييم الجيولوجي
+20101,Ingénieur expert en géophysique,مهندس خبير في الجيوفيزياء
+11303,Ingénieur expert en géologie,مهندس خبير في الجيولوجيا
+11302,Ingénieur des réservoirs et des boues,مهندس في خزانات انتاج النفط والطين
+11301,"Ingénieur d’études en minéralogie, pétrographie",مهندس دراسات المعادن والصخور
+11208,Ingénieur d’études en hydrogéologie,مهندس دراسات في الهيدروجيولوجيا
+11207,Ingénieur d’études en géophysique,مهندس دراسات في الجيوفيزياء
+11206,Ingénieur d’application en valorisation géologique,مهندس تطبيقي في التقييم الجيولوجي
+11205,"Ingénieur d’application en minéralogie, pétrographie",مهندس تطبيقي في علم المعادن والصخور
+11204,Ingénieur d’application en hydrogéologie,مهندس تطبيقي في الهيدروجيولوجيا
+11203,Ingénieur d’analyse en exploration pétrolière,مهندس في تحليل الاستكشافات النفطية
+11202,Hydrologue,هيدرولوجي
+11201,Hydrogéologue,هيدروجيولوجي
+11118,Géotechnicien,جيوتقني
+11117,Géophysicien,جيوفيزيائي
+11116,Géologue prospecteur,جيولوجي في التنقيب
+11115,Géologue pétrolier,جيولوجي البترول
+11114,Géologue minier,جيولوجي المناجم
+11113,Géologue en recherche prospective,جيولوجي في البحث الاستشرافي
+11112,Géologue de chantier,جيولوجي ورشات البناء
+11111,Géologue,جيولوجي
+11110,Géodésien,اخصائي في الجيوديسيا ومسح الأراضي
+11109,Géochimiste,جيوكيميائي
+11108,Technicien principal maintenance poste électrique,تقني رئيسي في صيانة مركز كهربائي
+11107,Technicien principal études et surveillance des travaux électricité,تقني رئيسي في الدراسات ومراقبة أشغال الكهرباء
+11106,Surveillant chantier télécom,مراقب ورشة اتصالات
+11105,Superviseur télécom,مشرف على الاتصالات
+11104,Poseur tireur de câbles en fibre optique,عامل في تركيب وسحب أسلاك الألياف البصرية
+11103,Ouvrier qualifié caténaire,عامل مؤهل في تركيب أسلاك القطار الكهربائي
+11102,Ouvrier professionnel hors catégorie en éclairage public,عامل مهني خارج التصنيف في الإنارة العمومية
+11101,Opérateur réseau télécom,عامل على شبكة اتصالات
+11004,Monteur de réseaux électriques,مركب الشبكات الكهربائية
+11003,Monteur de caténaires,مركب أسلاك القطارات الكهربائية
+11002,Monteur câbleur réseau électrique,مركب أسلاك الشبكة الكهربائية
+11001,Electricien en balisage,كهربائي في الإشارات العمومية
+10911,Electricien de distribution,كهربائي في توزيع الشبكات
+10910,Electricien d'éclairage public,كهربائي في الإنارة العمومية
+10909,Câblier réseau électrique,مركب أسلاك الشبكة الكهربائية
+10908,Aide électricien monteur réseaux,مساعد كهربائي في تركيب الشبكات
+10907,Agent répartiteur en télécom,عون توزيع شبكات الاتصالات
+10906,Agent de maitrise en éclairage public,عون تحكم في الإنارة العمومية
+10905,Technicien principal de conduite de centrale électrique,تقني رئيسي في قيادة محطة كهربائية
+10904,Technicien de conduite auxiliaire,تقني ملحق في قيادة محطة كهربائية
+10903,Rondier en production d'énergie,عون دورية في إنتاج الطاقة
+10902,Opérateur d'exploitation en production d'énergie,عامل استغلال في إنتاج الطاقة
+10901,Ingénieur de production électrique,مهندس إنتاج كهربائي
+10808,Elaïologue,خبير في الزيوت الغذائية 
+10807,Technicien production animale,تقني في الإنتاج الحيواني
+10806,Technicien forestier,تقني في الغابات
+10805,Technicien du génie rural,تقني في الهندسة الريفية
+10804,Ingénieur paysagiste,مهندس تنسيق الحدائق
+10803,Ingénieur horticole,مهندس في مصائد الأسماك
+10802,Ingénieur halieute,مهندس في صيد الأسماك
+10801,Ingénieur forestier,مهندس غابي
+10742,Ingénieur en technologie alimentaire,مهندس في التكنولوجيا الغذائية
+10741,Ingénieur en irrigation agricole,مهندس السقي الزراعي
+10740,Ingénieur en expérimentation végétale,مهندس التجارب النباتية
+10739,Ingénieur en expérimentation animale,مهندس في التجارب الحيوانية
+10738,Ingénieur du génie rural,مهندس في الهندسة الريفية
+10737,Ingénieur des forêts,مهندس الغابات
+10736,Ingénieur d'application agricole,مهندس التطبيقات الزراعية
+10735,Ingénieur d'aménagement rural,مهندس التهيئة الريفية
+10734,Ingénieur arboricole,مهندس في البستنة
+10733,Ingénieur agronome,مهندس زراعي
+10732,Expert en aquaculture,خبير في ميدان الصيد
+10731,Expert cynégétique,خبير في تربية الأحياء المائية 
+10730,Expert agricole et foncier,خبير فلاحي وعقاري
+10729,Expérimentateur en agriculture,مختبر في الزراعة
+10728,Conservateur principal en agriculture,محافظ رئيسي في الزراعة
+10727,Chargé d'études en développement rural,مكلف بالدراسات في التنمية الريفية
+10726,Chargé d'études en développement agricole,مكلف بالدراسات في التطوير الزراعي
+10725,Chargé d'études économiques en agriculture,مكلف بالدراسات الاقتصادية في الزراعة
+10724,Chargé de recherche en agriculture,مكلف بالبحوث الزراعية
+10723,Chargé de mission en agriculture,مكلف بمهمة في الزراعة
+10722,Chargé d'études en environnement,مكلف بالدراسات البيئية
+10721,Animateur communal de vulgarisation agricole,منسق مجتمعي للتوعية الزراعية
+10720,Agroéconomiste,اقتصادي زراعي
+10719,Agent technique d'assistance et de conseil agricole,عامل تقني في المساعدة والاستشارة الفلاحية
+10718,Testeur de produits de consommation,مختبر مواد استهلاكية
+10717,Superviseur d'enquêteurs,مشرف على المحققين
+10716,Responsable d'enquêtes terrain,مسؤول التحقيقات الميدانية
+10715,Enquêteur sur terrain,محقق ميداني
+10714,Enquêteur sondage,محقق سبر الآراء
+10713,Directeur d'enquêtes administration et technique,مدير التحقيقات الإدارية والتقنية
+10712,Contrôleur d'équipe d'enquêteurs,مراقب فريق المحققين
+10711,Agent technique en statistique,عون تقني في الاحصاء
+10710,Agent recenseur,عون احصاء
+10709,Statisticien,احصائي
+10708,Responsable prévision des ventes,مسؤول المبيعات المتوقعة
+10707,Responsable d'études socio-économiques,مسؤول الدراسات الاجتماعية – الاقتصادية
+10706,Responsable d'études économiques,مسؤول الدراسات الاقتصادية
+10705,Responsable de veille stratégique,مسؤول الحرص الاستراتيجي
+10704,Ingénieur statisticien,مهندس احصائي
+10703,Ingénieur économiste en entreprise,مهندس اقتصادي في مؤسسة
+10702,Economètre,خبير في الاقتصاد القياسي
+10701,Directeur d'études économiques,مدير الدراسات الاقتصادية
+10619,Chargé d'études statistiques,مكلف بالدراسات الإحصائية
+10618,Chargé d'études socio-économiques,مكلف بالدراسات الاجتماعية – الاقتصادية
+10617,Chargé d'études satisfaction,مكلف بالدراسات الخاصة برضا الزبون
+10616,Chargé d'études prospectives,مكلف بالدراسات التوقعية
+10615,Chargé d'études financières,مكلف بالدراسات المالية
+10614,Chargé d'études en marketing,مكلف بالدراسات في التسويق
+10613,Chargé d'études économiques,مكلف بالدراسات الاقتصادية
+10612,Chargé d'études de marché,مكلف بدراسات السوق
+10611,Chargé d'études commerciales,مكلف بالدراسات التجارية
+10610,Charge de mission synthèse et statistique,مكلف بمهمة التلخيص والإحصاء
+10609,Chargé de mission études d'impact,مكلف بمهمة دراسات التأثيرات
+10608,Intervenant en prévention des risques professionnels,متدخل في الوقاية من المخاطر المهنية
+10607,Ingénieurconseil en organisation,مهندس-مستشار في التنظيم
+10606,Ingénieurconseil en management,مهندس-مستشار في الإدارة
+10605,Ingénieur en organisation,مهندس في التنظيم
+10604,Consultant pilotage de la performance,مستشار مختص في قيادة حسن الأداء
+10603,Consultant ergonome,مستشار مختص في تحسين محيط العمل
+10602,Consultant en stratégie/organisation,مستشار مختص في استراتيجية/تنظيم
+10601,Consultant en organisation et management,مستشار مختص في التنظيم وإدارة الأعمال
+10505,Consultant en organisation,مستشار مختص في التنظيم
+10504,Consultant en management qualité,مستشار مختص في إدارة الجودة
+10503,Consultant en management,مستشار مختص في إدارة الأعمال
+10502,Consultant en intelligence économique,مستشار في الذكاء الاقتصادي
+10501,Conseiller en organisation d'entreprise,مستشار في تنظيم المؤسسة
+10440,Conseiller en conduite du changement,مستشار في قيادة التغيير
+10439,Auditeur social,مدقق اجتماعي
+10438,Auditeur qualité services,مدقق في جودة الخدمات
+10437,Auditeur organisationnel,مدقق في التنظيم
+10436,Auditeur en organisation,مدقق تنظيمي
+10435,Assistant en organisation,مساعد في التنظيم
+10434,Animateur qualité services,منشط في جودة الخدمات
+10433,Animateur de réseau d'entreprises,منشط شبكة المؤسسات
+10432,Voix off,معلق الصوت الخلفي (voice-over)
+10431,Spécialiste en vidéo mapping / projection mapping,أخصائي تحجيم الفيديو / تخطيط الإسقاط
+10430,Reporteur multimédia,مراسل وسائط متعددة
+10429,Magicien / Illusionniste,ساحر/ لاعِب خِفة
+10428,Découvreur de talents,مكتشف مواهب
+10427,Réalisateur de dessins animés,مخرج رسوم متحركة
+10426,Data manager loisirs (DIT),مسير بيانات الترفيه
+10425,Consultant / Analyste en Business Développement,مستشار/محلل تطوير الأعمال
+10424,Editeur de contenu pédagogique en ligne,ناشر المحتوى التعليمي عبر الإنترنت
+10423,Formateur expert en mécatronique auto,مكون خبير في ميكاترونيات السيارات
+10422,"Formateur aux métiers de la sécurité, option sécurité incendie et option sécurité privée",مكون في المهن الأمنية، تخصص السلامة من الحرائق وتخصص الأمن الخاص
+10421,Conseil en développement durable et RSE (Responsabilité Sociétale des Entreprises),مستشار في التنمية المستدامة والمسؤولية الاجتماعية للشركات
+10420,Formateur et conseiller dans le domaine QHSE,مكون ومستشار في مجال الجودة والنظافة والسلامة والبيئة
+10419,Formateur en assurance / management de la qualité,مكون في التأمينات وضمان الجودة
+10418,Conseil expert en RH et stratégie,مستشار خبير في الموارد البشرية والاستراتيجية
+10417,Consultant en Service Informatique,استشاري في خدمات الإعلام الآلي
+10416,Formateur en logiciels de comptabilité,مكون في برمجيات المحاسبة
+10415,Conseiller en domotique,مستشار في التشغيل الآلي للمنازل
+10414,Gestionnaire de secrétariat,مسير أمانة (سكريتاريا)
+10413,Consultant en Achat / Approvisionnement et sourcing,استشاري مشتريات وتوريد
+10412,Formateur en développement professionnel,مكون في التطوير المهني
+10411,Consultant en logistique,استشاري لوجستي
+10410,Consultant en commerce international,استشاري في التجارة الدولية
+10409,Consultant Technico-commercial,استشاري تقني- تجاري
+10408,Consultant en agro développement,استشاري في التنمية الزراعية
+10407,Conseiller en architecture durable et en ingénierie environnementale,استشاري في الهندسة المعمارية المستدامة والهندسة البيئية
+10406,Formateur en qualité agroalimentaire,مكون في جودة الأغذية الزراعية
+10405,Assistant d'agriculteur,مساعد مزارع
+10404,Spécialiste en élevage d’abeilles,أخصائي تربية النحل
+10403,"Grimpeurs de palmiers, dattiers et autres",متسلق نخيل وأشجار أخرى
+10402,Hirudiniculteur,مربّي العلقات
+10401,Opérateur d'abattoir mobile et de machine d'abattage,مشغل المذبح المتنقل وآلات الذبح
+10309,Consultant en Voirie & Réseaux Divers (VRD),استشاري في الطرق والشبكات المتنوعة
+10308,Formateur en interpersonnel,مكون في العلاقات الشخصية
+10307,Consultant et assistant en communication graphique,مستشار ومساعد في التواصل الجرافيكي
+10306,Représentant commercial,مندوب مبيعات
+10305,Agent de recouvrement de créances,وكيل تحصيل الديون
+10304,Directeur Financier (CFO),مدير مالي
+10303,Conseiller en investissement,مستشار في الاستثمار
+10302,Accompagnateur en assurance,مرشد تأمين
+10301,Consultant en Import-export,استشاري تصدير واستيراد
+10223,Formateur en logiciels,مكون برمجيات
+10222,Formation en maintenance automobile,مكون صيانة المركبات
+10221,Formateur BIM (Building information modeling),مكون نمذجة معلومات المباني
+10220,Formateur de la réparation de téléphones et tablettes,مكون إصلاح الهواتف والأجهزة اللوحية
+10219,Concepteur de programmes,مصمم برمجيات
+10218,Consultant industriel en machines hydrocarbure et énergie,استشاري صناعي في الآلات البترولية والطاقة
+10217,Consultant formateur en colorimétrie et techniques d'impression,مدرب استشاري في قياس الألوان وتقنيات الطباعة
+10216,Consultant en chimie industrielle,استشاري كيمياء صناعية
+10215,Formateur en lutte anti-nuisible (dératisation -désinsectisation -désinfection ...),مدرب في مكافحة الآفات الحشرية والقوارض والتعقيم
+10214,Formatrice en esthétique,مكونة في التجميل
+10213,Conseiller en nutrition et diététique,مستشار تغدية وحمية
+10212,Designer de marques,مصمم علامات تجارية
+10211,Spécialiste de modélisation,أخصائي في النمدجة
+10210,Manager de créateurs de contenu ou marketeurs numériques,مدير أعمال صانع المحتوى أو المسوق الرقمي
+10209,Formateur en E-commerce,مكون في التجارة الإلكترونية
+10208,Cartographe marin,رسام خرائط بحرية
+10207,Gestionnaire de Stock,مسير المخزون
+10206,Chargé de la Gestion électronique des dossiers,مسؤول التسيير الإلكتروني للملفات
+10205,Livreur de colis avec véhicule en intra-wilaya,سائق توصيل الطرود بالسيارة داخل الولاية
+10204,Designer de bijoux par logiciels,مصمم مجوهرات عن طريق البرمجيات
+10203,Correcteur/relecteur linguistique,مصحح ومدقق لغوي
+10202,Garde malade,مساعد الرعاية الصحية
+10201,Interprète en langue des signes,مترجم لغة الإشارة
+10135,Pâtissier à domicile,صانع حلويات منزلي
+10134,Professionnel d’enseignement spécialisé,مدرس تعليم متخصص
+10133,Décorateur Fleuriste,مصمم ديكور زهور
+10132,Styliste,مصمم أزياء
+10131,Esthéticienne à domicile,أخصائي(ة) تجميل في المنزل
+10130,Coiffeur(se) à domicile,حلاق (ة ) في المنزل
+10129,Ongleriste à domicile,أخصائي(ة) تجميل الأظافر في المنزل
+10128,Dresseur de chiens,مدرب كلاب
+10127,Garde animaux domestiques,مختص في رعاية الحيوانات الأليفة
+10126,Installateur et réparateur des stores et volets roulants,مركب و مصلح الستائر والستائر المتدحرجة
+10125,"Agent de Nettoyage, entretien et désinfection",عامل التنظيف والصيانة والتطهير
+10124,Agent de déménagement et de montage,عامل نقل و تركيب الأثاث و العدات
+10123,Designer d'intérieur,مصمم داخلي
+10122,Concepteur de bandes dessinées,مصمم قصص مصورة
+10121,Conseiller en hôtellerie et tourisme,مستشار في الفندقة والسياحة
+10120,Opérateur de salle de jeux vidéo,مشغل صالة ألعاب الفيديو
+10119,Coach vocal,مدرب صوت
+10118,Designer d'éclairage,مصمم إضاءة
+10117,Styliste Modéliste de chaussures,مصمم أحذية
+10116,Agent de nettoyage des façades vitrées,عون تنظيف واجهات زجاجية
+10115,Agent de nettoyage industriel,عون تنظيف صناعي
+10114,Agent de collecte et tri des déchets,عامل تجميع وفرز النفايات
+10113,Operateur de Sériographie,مشغل آلات طباعة السريغرافيا
+10112,Opérateur de machine CNC,مشغل آلات CNC
+10111,Piqueteur en fibre optique,مُعَيِّن مَسَار الألياف البصرية
+10110,Technicien en fibre optique,تقني ألياف بصرية
+10109,Installation et maintenance de systèmes d'énergie solaire,تركيب وصيانة أنظمة الطاقة الشمسية
+10108,Superviseur de chantier,مشرف موقع البناء
+10107,Consultant en inspection et intégrité des installations industrielles,استشاري فحص وسلامة المنشآت الصناعية
+10106,Consultant de Contrôle et inspection CND,استشاري مراقبة وفحص CND
+10105,"Consultant en relevé du bâti (Photogrammétrie, Lasergrametrie / Modélisation BIM)",استشاري مسح المباني (القياس التصويري، القياس بالليزر / نمذجة معلومات المباني)
+10104,Ingénieur en fiabilité,مهندس موثوقية
+10103,Conducteur d'engins de travaux publics,مشغل آلات الأشغال العمومية
+10102,Mécanicien maritime,ميكانيكي بحري
+10101,Ingénieur Systèmes Embarqués,مهندس أنظمة مدمجة
